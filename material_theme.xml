@@ -1,0 +1,18 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.4.2-2018.1" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
+    <option name="isBoldTabs" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="compactSidebar" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="customSidebarHeight" value="20" />
+    <option name="darkTitleBar" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="userId" value="3b366266:163e8978126:-7fff" />
+    <option name="allowDataCollection" value="true" />
+  </component>
+</application>
