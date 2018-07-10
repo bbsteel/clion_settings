@@ -51,8 +51,8 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="/code/projects/mydumper/myloader.c" timestamp="1531067522739">
-        <mark key="'" line="518" column="25" />
+      <file name="/code/projects/mydumper/myloader.c" timestamp="1531211626547">
+        <mark key="'" line="425" column="4" />
       </file>
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
@@ -119,6 +119,7 @@
       <jump line="82" column="4" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="177" column="51" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="1262" column="17" filename="/code/projects/mydumper/mydumper.c" />
+      <jump line="425" column="4" filename="/code/projects/mydumper/myloader.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
