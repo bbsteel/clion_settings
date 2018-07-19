@@ -23,8 +23,8 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="/code/projects/mydumper/mydumper.c" timestamp="1530953575073">
-        <mark key="'" line="1262" column="17" />
+      <file name="/code/projects/mydumper/mydumper.c" timestamp="1531992974855">
+        <mark key="'" line="2787" column="19" />
         <mark key="[" line="512" column="45" />
         <mark key="m" line="3014" column="28" />
         <mark key="]" line="512" column="53" />
@@ -39,6 +39,7 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
+      <file name="/code/projects/mydumper/binlog.c" timestamp="1531993077611" />
       <file name="/usr/include/pcre.h" timestamp="1528620722977">
         <mark key="'" line="676" column="0" />
       </file>
@@ -122,6 +123,7 @@
       <jump line="177" column="51" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="1262" column="17" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="425" column="4" filename="/code/projects/mydumper/myloader.c" />
+      <jump line="2787" column="19" filename="/code/projects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
