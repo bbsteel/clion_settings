@@ -23,10 +23,12 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="/code/projects/mydumper/mydumper.c" timestamp="1532363077501">
-        <mark key="[" line="580" column="28" />
-        <mark key="]" line="581" column="22" />
-        <mark key="." line="581" column="22" />
+      <file name="/code/projects/mydumper/mydumper.c" timestamp="1532366722206">
+        <mark key="a" line="1576" column="45" />
+        <mark key="'" line="2228" column="40" />
+        <mark key="[" line="2778" column="0" />
+        <mark key="]" line="2113" column="100" />
+        <mark key="." line="2113" column="0" />
         <mark key="^" line="581" column="22" />
       </file>
       <file name="/fragment.m" timestamp="1530206301317">
@@ -125,10 +127,11 @@
       <jump line="2787" column="19" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="6585" column="52" filename="/code/projects/mysql-server/sql/sql_show.cc" />
       <jump line="9457" column="0" filename="/code/projects/mysql-server/sql/sql_show.cc" />
+      <jump line="2227" column="40" filename="/code/projects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dm9pZCBnZXRfbm90X3VwZGF0ZWQoTVlTUUwgKmNvbm4pOwo=</text>
+        <text encoding="base64">CQkJLy8g6L+Z6YeM55qE5oSP5oCd5piv5aaC5p6c5oyH5a6adHJ4X2NvbnNpc3RlbmN5X29ubHksIOebtOaOpeWcqOi/memHjOaKiuihqOW9k+S9nGlubm9kYiDooajlpITnkIYsIOWQpuWImeWIsOWkluWxgihzdGFydF9kdW1wKeWGjei/m+ihjGR1bXAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YSBiaWcgc2Vzc2lvbiA=</text>
@@ -140,33 +143,33 @@
         <text encoding="base64">CQlnX3dhcm5pbmcoIkZhaWxlZCB0byBzZXQgbWF4X3N0YXRlbWVudF90aW1lLCBtYXkgYmUgbm90IHN1cHBvcnQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dm9pZCBnZXRfbm90X3VwZGF0ZWQoTVlTUUwgKmNvbm4pOwo=</text>
+        <text encoding="base64">CQkJLy8g6L+Z6YeM55qE5oSP5oCd5piv5aaC5p6c5oyH5a6adHJ4X2NvbnNpc3RlbmN5X29ubHksIOebtOaOpeWcqOi/memHjOaKiuihqOW9k+S9nGlubm9kYiDooajlpITnkIYsIOWQpuWImeWIsOWkluWxgihzdGFydF9kdW1wKeWGjei/m+ihjGR1bXAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VUKENNQUtFX0ZJTkRfTElCUkFSWV9TVUZGSVhFUyAiLmEiKQpTRVQoQlVJTERfU0hBUkVEX0xJQlMgT0ZGKQo=</text>
+        <text encoding="base64">dm9pZCBnZXRfbm90X3VwZGF0ZWQoTVlTUUwgKmNvbm4pOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">U0VUKENNQUtFX0ZJTkRfTElCUkFSWV9TVUZGSVhFUyAiLmEiKQpTRVQoQlVJTERfU0hBUkVEX0xJQlMgT0ZGKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQlnX3dhcmluCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Fix issue #135 
 
 when enable --lock-all-tables, do not start transaction before we get snapshot info</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkvLyDnlJ/miJDmr4/kuKrmlbDmja7ooYzmjaLooYzlkozmi6zlj7cK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCS8vCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCQkJfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQllbHNlewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkvLyBteXNxbCDor63lj6Xnibnmrorlhpnms5UsIOihqOekuuWmguaenG15c3Fs54mI5pys5aSn5LqOCg==</text>
+        <text encoding="base64">CQkJCQllbHNlewo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
