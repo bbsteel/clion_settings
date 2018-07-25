@@ -23,13 +23,12 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="/code/projects/mydumper/mydumper.c" timestamp="1532452583254">
+      <file name="/code/projects/mydumper/mydumper.c" timestamp="1532503985337">
         <mark key="a" line="1575" column="45" />
-        <mark key="'" line="1596" column="21" />
-        <mark key="[" line="2581" column="47" />
-        <mark key="]" line="2592" column="36" />
-        <mark key="." line="2592" column="36" />
-        <mark key="^" line="2592" column="36" />
+        <mark key="'" line="658" column="32" />
+        <mark key="[" line="2680" column="0" />
+        <mark key="]" line="2680" column="0" />
+        <mark key="." line="2680" column="0" />
       </file>
       <file name="/fragment.m" timestamp="1530206301317">
         <mark key="[" line="0" column="0" />
@@ -129,57 +128,59 @@
       <jump line="9457" column="0" filename="/code/projects/mysql-server/sql/sql_show.cc" />
       <jump line="2227" column="40" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="1597" column="21" filename="/code/projects/mydumper/mydumper.c" />
+      <jump line="2681" column="38" filename="/code/projects/mydumper/mydumper.c" />
+      <jump line="658" column="32" filename="/code/projects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy8g6buY6K6kaW5ub2RiCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YSBiaWcgc2Vzc2lvbiA=</text>
       </register>
       <register name="/" type="4">
-        <text>lock_all_tables</text>
+        <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlnX3dhcm5pbmcoIkZhaWxlZCB0byBzZXQgbWF4X3N0YXRlbWVudF90aW1lLCBtYXkgYmUgbm90IHN1cHBvcnQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy8g6buY6K6kaW5ub2RiCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy8g6L+Z6YeM55qE5oSP5oCd5piv5aaC5p6c5oyH5a6adHJ4X2NvbnNpc3RlbmN5X29ubHksIOebtOaOpeWcqOi/memHjOaKiuihqOW9k+S9nGlubm9kYiDooajlpITnkIYsIOWQpuWImeWIsOWkluWxgihzdGFydF9kdW1wKeWGjei/m+ihjGR1bXAK</text>
+        <text encoding="base64">CQkJLy8g6buY6K6kaW5ub2RiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dm9pZCBnZXRfbm90X3VwZGF0ZWQoTVlTUUwgKmNvbm4pOwo=</text>
+        <text encoding="base64">CQkJLy8g6L+Z6YeM55qE5oSP5oCd5piv5aaC5p6c5oyH5a6adHJ4X2NvbnNpc3RlbmN5X29ubHksIOebtOaOpeWcqOi/memHjOaKiuihqOW9k+S9nGlubm9kYiDooajlpITnkIYsIOWQpuWImeWIsOWkluWxgihzdGFydF9kdW1wKeWGjei/m+ihjGR1bXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VUKENNQUtFX0ZJTkRfTElCUkFSWV9TVUZGSVhFUyAiLmEiKQpTRVQoQlVJTERfU0hBUkVEX0xJQlMgT0ZGKQo=</text>
+        <text encoding="base64">dm9pZCBnZXRfbm90X3VwZGF0ZWQoTVlTUUwgKmNvbm4pOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">U0VUKENNQUtFX0ZJTkRfTElCUkFSWV9TVUZGSVhFUyAiLmEiKQpTRVQoQlVJTERfU0hBUkVEX0xJQlMgT0ZGKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQlnX3dhcmluCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Fix issue #135 
 
 when enable --lock-all-tables, do not start transaction before we get snapshot info</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkvLyDnlJ/miJDmr4/kuKrmlbDmja7ooYzmjaLooYzlkozmi6zlj7cK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJfQo=</text>
+        <text encoding="base64">CQkJCS8vCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>lock_all_tables</last-search>
+      <last-search encoding="base64">XDxyZXN1bHRcPg==</last-search>
       <last-offset />
-      <last-pattern>lock_all_tables</last-pattern>
+      <last-pattern encoding="base64">XDxyZXN1bHRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -198,6 +199,7 @@ when enable --lock-all-tables, do not start transaction before we get snapshot i
         <entry>chunk</entry>
         <entry>information</entry>
         <entry>lock_all_tables</entry>
+        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
