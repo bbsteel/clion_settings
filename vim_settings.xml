@@ -55,9 +55,12 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="/code/projects/mydumper/myloader.c" timestamp="1532505899048">
+      <file name="/code/projects/mydumper/myloader.c" timestamp="1532508007552">
         <mark key="'" line="145" column="26" />
-        <mark key="[" line="163" column="0" />
+        <mark key="[" line="170" column="84" />
+        <mark key="]" line="171" column="20" />
+        <mark key="^" line="171" column="20" />
+        <mark key="." line="171" column="20" />
       </file>
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
