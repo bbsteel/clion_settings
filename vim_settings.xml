@@ -24,9 +24,9 @@
         <mark key="." line="3122" column="0" />
       </file>
       <file name="/code/projects/mydumper/common.h" timestamp="1532505814653" />
-      <file name="/code/projects/mydumper/mydumper.c" timestamp="1532504751153">
+      <file name="/code/projects/mydumper/mydumper.c" timestamp="1532506331347">
         <mark key="a" line="1575" column="45" />
-        <mark key="'" line="658" column="32" />
+        <mark key="'" line="1045" column="1" />
         <mark key="[" line="2680" column="0" />
         <mark key="]" line="2680" column="0" />
         <mark key="." line="2680" column="0" />
@@ -134,6 +134,7 @@
       <jump line="658" column="32" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="96" column="0" filename="/code/projects/mydumper/myloader.c" />
       <jump line="145" column="26" filename="/code/projects/mydumper/myloader.c" />
+      <jump line="1045" column="1" filename="/code/projects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
