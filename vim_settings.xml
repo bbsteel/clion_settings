@@ -24,7 +24,7 @@
         <mark key="." line="3122" column="0" />
       </file>
       <file name="/code/projects/mydumper/common.h" timestamp="1532505814653" />
-      <file name="/code/projects/mydumper/mydumper.c" timestamp="1532506331347">
+      <file name="/code/projects/mydumper/mydumper.c" timestamp="1532522984220">
         <mark key="a" line="1575" column="45" />
         <mark key="'" line="1045" column="1" />
         <mark key="[" line="2680" column="0" />
@@ -55,12 +55,12 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="/code/projects/mydumper/myloader.c" timestamp="1532520555632">
-        <mark key="'" line="52" column="6" />
-        <mark key="[" line="170" column="84" />
-        <mark key="]" line="171" column="20" />
-        <mark key="^" line="171" column="20" />
-        <mark key="." line="171" column="20" />
+      <file name="/code/projects/mydumper/myloader.c" timestamp="1532523375385">
+        <mark key="'" line="225" column="16" />
+        <mark key="[" line="366" column="56" />
+        <mark key="]" line="367" column="46" />
+        <mark key="^" line="367" column="46" />
+        <mark key="." line="367" column="46" />
       </file>
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
@@ -139,6 +139,7 @@
       <jump line="145" column="26" filename="/code/projects/mydumper/myloader.c" />
       <jump line="1045" column="1" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="52" column="6" filename="/code/projects/mydumper/myloader.c" />
+      <jump line="225" column="16" filename="/code/projects/mydumper/myloader.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
