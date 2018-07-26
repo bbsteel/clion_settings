@@ -39,6 +39,12 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
+      <file name="/code/projects/mydumper/myloader.h" timestamp="1532597646077">
+        <mark key="[" line="47" column="9" />
+        <mark key="]" line="47" column="10" />
+        <mark key="^" line="47" column="10" />
+        <mark key="." line="47" column="10" />
+      </file>
       <file name="/usr/include/pcre.h" timestamp="1528620722977">
         <mark key="'" line="676" column="0" />
       </file>
@@ -55,12 +61,12 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="/code/projects/mydumper/myloader.c" timestamp="1532596729340">
+      <file name="/code/projects/mydumper/myloader.c" timestamp="1532597651148">
         <mark key="'" line="381" column="16" />
-        <mark key="[" line="239" column="46" />
-        <mark key="]" line="240" column="26" />
-        <mark key="^" line="240" column="26" />
-        <mark key="." line="240" column="26" />
+        <mark key="[" line="421" column="29" />
+        <mark key="]" line="421" column="29" />
+        <mark key="^" line="412" column="24" />
+        <mark key="." line="421" column="29" />
       </file>
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
@@ -143,11 +149,11 @@
       <jump line="378" column="16" filename="/code/projects/mydumper/myloader.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YSBiaWcgc2Vzc2lvbiA=</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
