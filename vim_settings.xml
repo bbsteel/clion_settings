@@ -24,9 +24,9 @@
         <mark key="." line="3122" column="0" />
       </file>
       <file name="/code/projects/mydumper/common.h" timestamp="1532505814653" />
-      <file name="/code/projects/mydumper/mydumper.c" timestamp="1532522984220">
+      <file name="/code/projects/mydumper/mydumper.c" timestamp="1532618260881">
         <mark key="a" line="1575" column="45" />
-        <mark key="'" line="1045" column="1" />
+        <mark key="'" line="1659" column="28" />
         <mark key="[" line="2680" column="0" />
         <mark key="]" line="2680" column="0" />
         <mark key="." line="2680" column="0" />
@@ -61,12 +61,12 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="/code/projects/mydumper/myloader.c" timestamp="1532616493196">
-        <mark key="'" line="381" column="16" />
-        <mark key="[" line="540" column="67" />
-        <mark key="]" line="541" column="35" />
-        <mark key="^" line="541" column="35" />
-        <mark key="." line="541" column="35" />
+      <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
+        <mark key="'" line="243" column="16" />
+        <mark key="[" line="224" column="32" />
+        <mark key="]" line="413" column="4" />
+        <mark key="^" line="413" column="4" />
+        <mark key="." line="413" column="4" />
       </file>
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
@@ -147,6 +147,9 @@
       <jump line="52" column="6" filename="/code/projects/mydumper/myloader.c" />
       <jump line="225" column="16" filename="/code/projects/mydumper/myloader.c" />
       <jump line="378" column="16" filename="/code/projects/mydumper/myloader.c" />
+      <jump line="449" column="22" filename="/code/projects/mydumper/myloader.c" />
+      <jump line="242" column="16" filename="/code/projects/mydumper/myloader.c" />
+      <jump line="1659" column="28" filename="/code/projects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
