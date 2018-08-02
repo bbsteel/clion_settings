@@ -6,10 +6,10 @@
       <file name="/GDB" timestamp="1530206245686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530949486676">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="/Dummy.txt" timestamp="1533202258779">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" timestamp="1525961259631">
         <mark key="'" line="70" column="16" />
@@ -53,7 +53,7 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="/code/projects/mydumper/README.md" timestamp="1533192298535" />
+      <file name="/code/projects/mydumper/README.md" timestamp="1533202114261" />
       <file name="/code/projects/mydumper/CMakeLists.txt" timestamp="1530957734130">
         <mark key="[" line="39" column="136" />
         <mark key="]" line="39" column="143" />
@@ -153,10 +153,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>set max_statement_time to unlimited</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>set max_statement_time to unlimited</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
