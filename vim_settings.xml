@@ -148,6 +148,7 @@
       <jump line="449" column="22" filename="/code/projects/mydumper/myloader.c" />
       <jump line="242" column="16" filename="/code/projects/mydumper/myloader.c" />
       <jump line="1659" column="28" filename="/code/projects/mydumper/mydumper.c" />
+      <jump line="2102" column="35" filename="/code/projects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
