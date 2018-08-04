@@ -14,6 +14,7 @@
       <file name="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" timestamp="1525961259631">
         <mark key="'" line="70" column="16" />
       </file>
+      <file name="/usr/include/glib-2.0/glib/gstring.h" timestamp="1533379490713" />
       <file name="/code/projects/mysql-server/libevent/event_rpcgen.py" timestamp="1503113934784">
         <mark key="'" line="51" column="0" />
       </file>
@@ -23,6 +24,7 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
+      <file name="/code/projects/mydumper/mydumper.c" timestamp="1533379242377" />
       <file name="/fragment.m" timestamp="1530206301317">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,6 +33,7 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
+      <file name="/usr/include/glib-2.0/glib/gdir.h" timestamp="1533380359549" />
       <file name="/code/projects/mydumper/myloader.h" timestamp="1532597646077">
         <mark key="[" line="47" column="9" />
         <mark key="]" line="47" column="10" />
@@ -46,19 +49,18 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="/code/projects/mydumper/README.md" timestamp="1533202114261" />
       <file name="/code/projects/mydumper/CMakeLists.txt" timestamp="1530957734130">
         <mark key="[" line="39" column="136" />
         <mark key="]" line="39" column="143" />
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="/code/projects/mydumper/myloader.c" timestamp="1533372338459">
-        <mark key="'" line="243" column="16" />
-        <mark key="[" line="224" column="32" />
-        <mark key="]" line="413" column="4" />
-        <mark key="^" line="413" column="4" />
-        <mark key="." line="413" column="4" />
+      <file name="/code/projects/mydumper/myloader.c" timestamp="1533381038833">
+        <mark key="'" line="380" column="32" />
+        <mark key="[" line="377" column="78" />
+        <mark key="]" line="377" column="59" />
+        <mark key="." line="377" column="59" />
+        <mark key="^" line="377" column="59" />
       </file>
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
@@ -143,48 +145,47 @@
       <jump line="242" column="16" filename="/code/projects/mydumper/myloader.c" />
       <jump line="1659" column="28" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="2102" column="35" filename="/code/projects/mydumper/mydumper.c" />
+      <jump line="375" column="32" filename="/code/projects/mydumper/myloader.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>set max_statement_time to unlimited</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>set max_statement_time to unlimited</text>
+        <text>split_file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlnX3dhcm5pbmcoIkZhaWxlZCB0byBzZXQgbWF4X3N0YXRlbWVudF90aW1lLCBtYXkgYmUgbm90IHN1cHBvcnQiKTsK</text>
+        <text encoding="base64">CX0KCWdfbWVzc2FnZSgiXG5jdXJyZW50IGZpbGUgbmFtZSAlcyIsIGZpbGVuYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy8g6buY6K6kaW5ub2RiCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8g6L+Z6YeM55qE5oSP5oCd5piv5aaC5p6c5oyH5a6adHJ4X2NvbnNpc3RlbmN5X29ubHksIOebtOaOpeWcqOi/memHjOaKiuihqOW9k+S9nGlubm9kYiDooajlpITnkIYsIOWQpuWImeWIsOWkluWxgihzdGFydF9kdW1wKeWGjei/m+ihjGR1bXAK</text>
+        <text encoding="base64">CQl0YWJsZV9wYXJ0ID0gZ19zdHJkdXBfcHJpbnRmKCIlcyVzIiwgdGFibGVfcGFydCA/IHRhYmxlX3BhcnQgOiAiIiwgc3BsaXRfZmlsZVtpXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dm9pZCBnZXRfbm90X3VwZGF0ZWQoTVlTUUwgKmNvbm4pOwo=</text>
+        <text encoding="base64">CWlmICgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VUKENNQUtFX0ZJTkRfTElCUkFSWV9TVUZGSVhFUyAiLmEiKQpTRVQoQlVJTERfU0hBUkVEX0xJQlMgT0ZGKQo=</text>
+        <text encoding="base64">CWlmIChnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlnX3dhcmluCg==</text>
+        <text encoding="base64">CSAgICB0YWJsZV9wYXJ0ID0gZ19zdHJpbmdfYXBwZW5kKHRhYmxlX3BhcnQsIHNwbGl0X2ZpbGVbaV0pOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Fix issue #135 
-
-when enable --lock-all-tables, do not start transaction before we get snapshot info</text>
+      <register name="7" type="2">
+        <text encoding="base64">CUdTdHJpbmcqIHRhYmxlX3BhcnQgPSBnX3N0cmluZ19zaXplZF9uZXcoNTEyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyDnlJ/miJDmr4/kuKrmlbDmja7ooYzmjaLooYzlkozmi6zlj7cK</text>
+        <text encoding="base64">CWdjaGFyIHRhYmxlX3BhcnQgPSBnY2hhcls1MTJdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS8vCg==</text>
+        <text encoding="base64">CUdTdHJpbmcqIHRhYmxlX3BhcnQgPSBnX3N0cmluZ19zaXplZF9uZXcoNTEyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
