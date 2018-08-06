@@ -6,7 +6,7 @@
       <file name="/GDB" timestamp="1533556655643">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533554234100">
+      <file name="/Dummy.txt" timestamp="1533566369243">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -24,8 +24,10 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="/fragment.m" timestamp="1533564839342">
+      <file name="/fragment.m" timestamp="1533566172062">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="/code/projects/mydumper/.gitignore" timestamp="1524663598695">
         <mark key="[" line="123" column="0" />
@@ -47,17 +49,17 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="/code/projects/mydumper/CMakeLists.txt" timestamp="1530957734130">
+      <file name="/code/projects/mydumper/CMakeLists.txt" timestamp="1533566263480">
         <mark key="[" line="39" column="136" />
         <mark key="]" line="39" column="143" />
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="/code/projects/mydumper/myloader.c" timestamp="1533564777053">
-        <mark key="[" line="363" column="51" />
-        <mark key="]" line="363" column="50" />
-        <mark key="." line="363" column="50" />
-        <mark key="^" line="363" column="50" />
+      <file name="/code/projects/mydumper/myloader.c" timestamp="1533566236925">
+        <mark key="[" line="366" column="0" />
+        <mark key="]" line="366" column="0" />
+        <mark key="." line="366" column="0" />
+        <mark key="^" line="366" column="48" />
       </file>
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
@@ -146,10 +148,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWdfbWVzc2FnZSgiXG4iKTsK</text>
+        <text encoding="base64">CWdfbWVzc2FnZSgiY3VycmVudCBzY2hlbWEgZmlsZSBuYW1lOiAlcyIsIGZpbGVuYW1lKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXggdGFibGUgd2l0aCBub2RlIG5vdCBzdXBwb3J0IA==</text>
+        <text>table_part</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
@@ -158,31 +160,31 @@
         <text encoding="base64">CX0KCWdfbWVzc2FnZSgiXG5jdXJyZW50IGZpbGUgbmFtZSAlcyIsIGZpbGVuYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWdfbWVzc2FnZSgiXG4iKTsK</text>
+        <text encoding="base64">CWdfbWVzc2FnZSgiY3VycmVudCBzY2hlbWEgZmlsZSBuYW1lOiAlcyIsIGZpbGVuYW1lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWdfbWVzc2FnZSgiXG4iKTsK</text>
+        <text encoding="base64">CWdjaGFyKiB0YWJsZV9wYXJ0ID0gMDsKCWZvciAoZ3VpbnQgaT0xOyBpIDwgZ19zdHJ2X2xlbmd0aChzcGxpdF9maWxlKTsgaSsrKSB7CgkJaWYgKGkgPT0gMSkgewoJCQl0YWJsZV9wYXJ0ID0gc3BsaXRfZmlsZVtpXTsKCQl9CgkJZWxzZSB7CgkJCXRhYmxlX3BhcnQgPSBnX3N0cmR1cF9wcmludGYoIiVzLiVzIiwgdGFibGVfcGFydCwgc3BsaXRfZmlsZVtpXSk7CgkJfQoJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWdfbWVzc2FnZSgiY3VycmVudCBzY2hlbWEgZmlsZSBuYW1lICVzIiwgZmlsZW5hbWUpOwo=</text>
+        <text encoding="base64">CWdfbWVzc2FnZSgiXG4iKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWlmIChnX3N0cl9lcXVhbChmaWxlbmFtZSwgInRlc3QuYS5iYWstc2NoZW1hLnNxbCIpKSB7CgkJCQkJZmlsZW5hbWUgPSBnX3N0cmR1cF9wcmludGYoIiVzIiwgInRlc3QuYS1zY2hlbWEuc3FsIik7CgkJCQl9ZWxzZSBpZiAoZ19zdHJfZXF1YWwoZmlsZW5hbWUsICJ0ZXN0LmEtc2NoZW1hLnNxbCIpKSB7CgkJCQkJZmlsZW5hbWUgPSBnX3N0cmR1cF9wcmludGYoIiVzIiwgInRlc3QuYS5iYWstc2NoZW1hLnNxbCIpOwoJCQkJfQo=</text>
+        <text encoding="base64">CWdfbWVzc2FnZSgiXG4iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWdfbWVzc2FnZSgiY3VycmVudCBzY2hlbWEgZmlsZSBuYW1lICVzIiwgZmlsZW5hbWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCWlmIChnX3N0cl9lcXVhbChmaWxlbmFtZSwgInRlc3QuYS5iYWstc2NoZW1hLnNxbCIpKSB7CgkJCQkJZmlsZW5hbWUgPSBnX3N0cmR1cF9wcmludGYoIiVzIiwgInRlc3QuYS1zY2hlbWEuc3FsIik7CgkJCQl9ZWxzZSBpZiAoZ19zdHJfZXF1YWwoZmlsZW5hbWUsICJ0ZXN0LmEtc2NoZW1hLnNxbCIpKSB7CgkJCQkJZmlsZW5hbWUgPSBnX3N0cmR1cF9wcmludGYoIiVzIiwgInRlc3QuYS5iYWstc2NoZW1hLnNxbCIpOwoJCQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl0YWJsZV9wYXJ0ID0gZ19zdHJkdXBfcHJpbnRmKCIlcyVzIiwgdGFibGVfcGFydCA/IHRhYmxlX3BhcnQgOiAiIiwgc3BsaXRfZmlsZVtpXSk7Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWlmICgpCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmIChnKQo=</text>
+        <text encoding="base64">CQl0YWJsZV9wYXJ0ID0gZ19zdHJkdXBfcHJpbnRmKCIlcyVzIiwgdGFibGVfcGFydCA/IHRhYmxlX3BhcnQgOiAiIiwgc3BsaXRfZmlsZVtpXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
