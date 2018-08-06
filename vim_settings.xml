@@ -14,7 +14,6 @@
       <file name="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" timestamp="1525961259631">
         <mark key="'" line="70" column="16" />
       </file>
-      <file name="/usr/include/glib-2.0/glib/gstring.h" timestamp="1533379490713" />
       <file name="/code/projects/mysql-server/libevent/event_rpcgen.py" timestamp="1503113934784">
         <mark key="'" line="51" column="0" />
       </file>
@@ -24,7 +23,6 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="/code/projects/mydumper/mydumper.c" timestamp="1533379242377" />
       <file name="/fragment.m" timestamp="1530206301317">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,7 +31,6 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="/usr/include/glib-2.0/glib/gdir.h" timestamp="1533380359549" />
       <file name="/code/projects/mydumper/myloader.h" timestamp="1532597646077">
         <mark key="[" line="47" column="9" />
         <mark key="]" line="47" column="10" />
@@ -55,12 +52,12 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="/code/projects/mydumper/myloader.c" timestamp="1533381038833">
-        <mark key="'" line="380" column="32" />
-        <mark key="[" line="377" column="78" />
-        <mark key="]" line="377" column="59" />
-        <mark key="." line="377" column="59" />
-        <mark key="^" line="377" column="59" />
+      <file name="/code/projects/mydumper/myloader.c" timestamp="1533544675585">
+        <mark key="'" line="375" column="32" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
+        <mark key="^" line="372" column="59" />
       </file>
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
@@ -149,7 +146,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCWlmIChnX3N0cl9lcXVhbChmaWxlbmFtZSwgInRlc3QuYS5iYWstc2NoZW1hLnNxbCIpKSB7CgkJCQkJZmlsZW5hbWUgPSBnX3N0cmR1cF9wcmludGYoIiVzIiwgInRlc3QuYS1zY2hlbWEuc3FsIik7CgkJCQl9ZWxzZSBpZiAoZ19zdHJfZXF1YWwoZmlsZW5hbWUsICJ0ZXN0LmEtc2NoZW1hLnNxbCIpKSB7CgkJCQkJZmlsZW5hbWUgPSBnX3N0cmR1cF9wcmludGYoIiVzIiwgInRlc3QuYS5iYWstc2NoZW1hLnNxbCIpOwoJCQkJfQo=</text>
       </register>
       <register name="-" type="4">
         <text>split_file</text>
@@ -161,31 +158,31 @@
         <text encoding="base64">CX0KCWdfbWVzc2FnZSgiXG5jdXJyZW50IGZpbGUgbmFtZSAlcyIsIGZpbGVuYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCWlmIChnX3N0cl9lcXVhbChmaWxlbmFtZSwgInRlc3QuYS5iYWstc2NoZW1hLnNxbCIpKSB7CgkJCQkJZmlsZW5hbWUgPSBnX3N0cmR1cF9wcmludGYoIiVzIiwgInRlc3QuYS1zY2hlbWEuc3FsIik7CgkJCQl9ZWxzZSBpZiAoZ19zdHJfZXF1YWwoZmlsZW5hbWUsICJ0ZXN0LmEtc2NoZW1hLnNxbCIpKSB7CgkJCQkJZmlsZW5hbWUgPSBnX3N0cmR1cF9wcmludGYoIiVzIiwgInRlc3QuYS5iYWstc2NoZW1hLnNxbCIpOwoJCQkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl0YWJsZV9wYXJ0ID0gZ19zdHJkdXBfcHJpbnRmKCIlcyVzIiwgdGFibGVfcGFydCA/IHRhYmxlX3BhcnQgOiAiIiwgc3BsaXRfZmlsZVtpXSk7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWlmICgpCg==</text>
+        <text encoding="base64">CQl0YWJsZV9wYXJ0ID0gZ19zdHJkdXBfcHJpbnRmKCIlcyVzIiwgdGFibGVfcGFydCA/IHRhYmxlX3BhcnQgOiAiIiwgc3BsaXRfZmlsZVtpXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWlmIChnKQo=</text>
+        <text encoding="base64">CWlmICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICB0YWJsZV9wYXJ0ID0gZ19zdHJpbmdfYXBwZW5kKHRhYmxlX3BhcnQsIHNwbGl0X2ZpbGVbaV0pOwo=</text>
+        <text encoding="base64">CWlmIChnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUdTdHJpbmcqIHRhYmxlX3BhcnQgPSBnX3N0cmluZ19zaXplZF9uZXcoNTEyKTsK</text>
+        <text encoding="base64">CSAgICB0YWJsZV9wYXJ0ID0gZ19zdHJpbmdfYXBwZW5kKHRhYmxlX3BhcnQsIHNwbGl0X2ZpbGVbaV0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWdjaGFyIHRhYmxlX3BhcnQgPSBnY2hhcls1MTJdOwo=</text>
+        <text encoding="base64">CUdTdHJpbmcqIHRhYmxlX3BhcnQgPSBnX3N0cmluZ19zaXplZF9uZXcoNTEyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUdTdHJpbmcqIHRhYmxlX3BhcnQgPSBnX3N0cmluZ19zaXplZF9uZXcoNTEyKTsK</text>
+        <text encoding="base64">CWdjaGFyIHRhYmxlX3BhcnQgPSBnY2hhcls1MTJdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
