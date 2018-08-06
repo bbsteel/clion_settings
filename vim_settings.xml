@@ -6,10 +6,10 @@
       <file name="/GDB" timestamp="1530206245686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533202258779">
+      <file name="/Dummy.txt" timestamp="1533554234100">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" timestamp="1525961259631">
         <mark key="'" line="70" column="16" />
@@ -52,12 +52,10 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="/code/projects/mydumper/myloader.c" timestamp="1533544675585">
-        <mark key="'" line="375" column="32" />
+      <file name="/code/projects/mydumper/myloader.c" timestamp="1533554594847">
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
-        <mark key="^" line="372" column="59" />
       </file>
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
@@ -145,11 +143,11 @@
       <jump line="375" column="32" filename="/code/projects/mydumper/myloader.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCWlmIChnX3N0cl9lcXVhbChmaWxlbmFtZSwgInRlc3QuYS5iYWstc2NoZW1hLnNxbCIpKSB7CgkJCQkJZmlsZW5hbWUgPSBnX3N0cmR1cF9wcmludGYoIiVzIiwgInRlc3QuYS1zY2hlbWEuc3FsIik7CgkJCQl9ZWxzZSBpZiAoZ19zdHJfZXF1YWwoZmlsZW5hbWUsICJ0ZXN0LmEtc2NoZW1hLnNxbCIpKSB7CgkJCQkJZmlsZW5hbWUgPSBnX3N0cmR1cF9wcmludGYoIiVzIiwgInRlc3QuYS5iYWstc2NoZW1hLnNxbCIpOwoJCQkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aXggdGFibGUgd2l0aCBub2RlIG5vdCBzdXBwb3J0IA==</text>
       </register>
       <register name="-" type="4">
-        <text>split_file</text>
+        <text encoding="base64">aXggdGFibGUgd2l0aCBub2RlIG5vdCBzdXBwb3J0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
