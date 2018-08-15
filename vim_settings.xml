@@ -17,12 +17,17 @@
       <file name="/code/projects/mysql-server/libevent/event_rpcgen.py" timestamp="1503113934784">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="/CMakeLists.txt" timestamp="1533556069709" />
       <file name="/code/projects/mysql-server/.gitignore" timestamp="1503113040871">
         <mark key="[" line="3122" column="0" />
         <mark key="]" line="3122" column="0" />
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
+      </file>
+      <file name="/code/projects/mydumper/mydumper.c" timestamp="1534324183406">
+        <mark key="[" line="527" column="23" />
+        <mark key="]" line="527" column="39" />
+        <mark key="^" line="527" column="39" />
+        <mark key="." line="527" column="39" />
       </file>
       <file name="/fragment.m" timestamp="1533566172062">
         <mark key="[" line="0" column="0" />
@@ -147,17 +152,17 @@
       <jump line="375" column="32" filename="/code/projects/mydumper/myloader.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CWdfbWVzc2FnZSgiY3VycmVudCBzY2hlbWEgZmlsZSBuYW1lOiAlcyIsIGZpbGVuYW1lKTsK</text>
+      <register name="&quot;" type="4">
+        <text>net_read_timeout</text>
       </register>
       <register name="-" type="4">
-        <text>table_part</text>
+        <text>net_read_timeout</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CX0KCWdfbWVzc2FnZSgiXG5jdXJyZW50IGZpbGUgbmFtZSAlcyIsIGZpbGVuYW1lKTsK</text>
+        <text encoding="base64">CWlmIChteXNxbF9xdWVyeSh0aHJjb25uLCAiU0VUIFNFU1NJT04gbmV0X3JlYWRfdGltZW91dCA9IDMxNTM2MDAwIikpIHsKCQlnX3dhcm5pbmcoIkZhaWxlZCB0byBzZXQgbmV0X3JlYWRfdGltZW91dCIpOwoJfQoJZWxzZSB7CgkJZ193YXJuaW5nKCJzZXQgbmV0X3JlYWRfdGltZW91dCB0byBtYXgiKTsKCX0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CWdfbWVzc2FnZSgiY3VycmVudCBzY2hlbWEgZmlsZSBuYW1lOiAlcyIsIGZpbGVuYW1lKTsK</text>
