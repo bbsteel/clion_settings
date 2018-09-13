@@ -59,6 +59,9 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1536849413959">
+        <mark key="'" line="18" column="33" />
+      </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
         <mark key="[" line="224" column="32" />
@@ -149,6 +152,7 @@
       <jump line="242" column="16" filename="/code/projects/mydumper/myloader.c" />
       <jump line="1659" column="28" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="2102" column="35" filename="/code/projects/mydumper/mydumper.c" />
+      <jump line="18" column="33" filename="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -158,7 +162,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN1bHRcPg==</text>
+        <text>-D</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlnX3dhcm5pbmcoIkZhaWxlZCB0byBzZXQgbWF4X3N0YXRlbWVudF90aW1lLCBtYXkgYmUgbm90IHN1cHBvcnQiKTsK</text>
@@ -197,9 +201,9 @@ when enable --lock-all-tables, do not start transaction before we get snapshot i
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXN1bHRcPg==</last-search>
+      <last-search>-D</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN1bHRcPg==</last-pattern>
+      <last-pattern>-D</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -219,6 +223,7 @@ when enable --lock-all-tables, do not start transaction before we get snapshot i
         <entry>information</entry>
         <entry>lock_all_tables</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry>-D</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
