@@ -62,6 +62,9 @@
       <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1536849413959">
         <mark key="'" line="18" column="33" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1537183692715">
+        <mark key="'" line="479" column="13" />
+      </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
         <mark key="[" line="224" column="32" />
@@ -153,6 +156,7 @@
       <jump line="1659" column="28" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="2102" column="35" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="18" column="33" filename="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" />
+      <jump line="479" column="13" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
