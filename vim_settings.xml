@@ -17,6 +17,13 @@
       <file name="/code/projects/mysql-server/libevent/event_rpcgen.py" timestamp="1503113934784">
         <mark key="'" line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1537349983411">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="45" column="40" />
+        <mark key="]" line="45" column="41" />
+        <mark key="^" line="42" column="25" />
+        <mark key="." line="45" column="41" />
+      </file>
       <file name="/code/projects/mysql-server/.gitignore" timestamp="1503113040871">
         <mark key="[" line="3122" column="0" />
         <mark key="]" line="3122" column="0" />
@@ -59,11 +66,18 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1536849413959">
+      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1537349076990">
         <mark key="'" line="18" column="33" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1537183692715">
-        <mark key="'" line="479" column="13" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1537349890261">
+        <mark key="'" line="1013" column="11" />
+        <mark key="[" line="1014" column="27" />
+        <mark key="]" line="1014" column="27" />
+        <mark key="^" line="1014" column="27" />
+        <mark key="." line="1014" column="27" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -157,19 +171,26 @@
       <jump line="2102" column="35" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="18" column="33" filename="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" />
       <jump line="479" column="13" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="68" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="21" column="0" filename="$USER_HOME$/CLionProjects/mydumper/connection.c" />
+      <jump line="472" column="12" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="498" column="8" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="262" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="1013" column="11" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>sssssssssssssssssssssssss</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>sssssssssssssssssssssssss</text>
       </register>
       <register name="/" type="4">
-        <text>-D</text>
+        <text>1111</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlnX3dhcm5pbmcoIkZhaWxlZCB0byBzZXQgbWF4X3N0YXRlbWVudF90aW1lLCBtYXkgYmUgbm90IHN1cHBvcnQiKTsK</text>
+        <text encoding="base64">CWdfbWVzc2FnZSgnc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzcycpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQo=</text>
@@ -205,9 +226,9 @@ when enable --lock-all-tables, do not start transaction before we get snapshot i
       </register>
     </registers>
     <search>
-      <last-search>-D</last-search>
+      <last-search>1111</last-search>
       <last-offset />
-      <last-pattern>-D</last-pattern>
+      <last-pattern>1111</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -228,6 +249,8 @@ when enable --lock-all-tables, do not start transaction before we get snapshot i
         <entry>lock_all_tables</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry>-D</entry>
+        <entry encoding="base64">XDxnX21lc3NhZ2VcPg==</entry>
+        <entry>1111</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
