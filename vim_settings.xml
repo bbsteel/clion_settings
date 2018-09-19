@@ -17,12 +17,11 @@
       <file name="/code/projects/mysql-server/libevent/event_rpcgen.py" timestamp="1503113934784">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1537349983411">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="45" column="40" />
-        <mark key="]" line="45" column="41" />
-        <mark key="^" line="42" column="25" />
-        <mark key="." line="45" column="41" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1537350363272">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/code/projects/mysql-server/.gitignore" timestamp="1503113040871">
         <mark key="[" line="3122" column="0" />
@@ -66,11 +65,12 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1537349076990">
-        <mark key="'" line="18" column="33" />
-        <mark key="]" line="17" column="7" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="17" column="7" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1537350979696">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="19" column="37" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1537349890261">
         <mark key="'" line="1013" column="11" />
@@ -86,6 +86,7 @@
         <mark key="^" line="413" column="4" />
         <mark key="." line="413" column="4" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/config.h" timestamp="1537350728129" />
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
       </file>
@@ -178,57 +179,57 @@
       <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="262" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1013" column="11" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="43" column="0" filename="$USER_HOME$/CLionProjects/mydumper/connection.c" />
+      <jump line="19" column="7" filename="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sssssssssssssssssssssssss</text>
+        <text>OFF</text>
       </register>
       <register name="-" type="4">
-        <text>sssssssssssssssssssssssss</text>
+        <text>OFF</text>
       </register>
       <register name="/" type="4">
-        <text>1111</text>
+        <text encoding="base64">XDxXSVRIX1NTTFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWdfbWVzc2FnZSgnc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy8g6buY6K6kaW5ub2RiCg==</text>
+        <text encoding="base64">ZW5kaWYoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy8g6L+Z6YeM55qE5oSP5oCd5piv5aaC5p6c5oyH5a6adHJ4X2NvbnNpc3RlbmN5X29ubHksIOebtOaOpeWcqOi/memHjOaKiuihqOW9k+S9nGlubm9kYiDooajlpITnkIYsIOWQpuWImeWIsOWkluWxgihzdGFydF9kdW1wKeWGjei/m+ihjGR1bXAK</text>
+        <text encoding="base64">ICBhZGRfZGVmaW5pdGlvbnMoLURXSVRIX1NTTCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dm9pZCBnZXRfbm90X3VwZGF0ZWQoTVlTUUwgKmNvbm4pOwo=</text>
+        <text encoding="base64">aWYgKFdJVEhfU1NMKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0VUKENNQUtFX0ZJTkRfTElCUkFSWV9TVUZGSVhFUyAiLmEiKQpTRVQoQlVJTERfU0hBUkVEX0xJQlMgT0ZGKQo=</text>
+        <text encoding="base64">I2RlZmluZSBXSVRIX1NTTAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlnX3dhcmluCg==</text>
+        <text encoding="base64">I2RlZmluZSBXSXRoX1NTTAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>Fix issue #135 
-
-when enable --lock-all-tables, do not start transaction before we get snapshot info</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvLyDnlJ/miJDmr4/kuKrmlbDmja7ooYzmjaLooYzlkozmi6zlj7cK</text>
+        <text encoding="base64">CQkJLy8g6buY6K6kaW5ub2RiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS8vCg==</text>
+        <text encoding="base64">CQkJLy8g6L+Z6YeM55qE5oSP5oCd5piv5aaC5p6c5oyH5a6adHJ4X2NvbnNpc3RlbmN5X29ubHksIOebtOaOpeWcqOi/memHjOaKiuihqOW9k+S9nGlubm9kYiDooajlpITnkIYsIOWQpuWImeWIsOWkluWxgihzdGFydF9kdW1wKeWGjei/m+ihjGR1bXAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>1111</last-search>
+      <last-search encoding="base64">XDxXSVRIX1NTTFw+</last-search>
       <last-offset />
-      <last-pattern>1111</last-pattern>
+      <last-pattern encoding="base64">XDxXSVRIX1NTTFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -251,6 +252,7 @@ when enable --lock-all-tables, do not start transaction before we get snapshot i
         <entry>-D</entry>
         <entry encoding="base64">XDxnX21lc3NhZ2VcPg==</entry>
         <entry>1111</entry>
+        <entry encoding="base64">XDxXSVRIX1NTTFw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -304,6 +306,9 @@ when enable --lock-all-tables, do not start transaction before we get snapshot i
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
