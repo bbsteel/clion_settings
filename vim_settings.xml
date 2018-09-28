@@ -28,11 +28,11 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1538103745138">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="19" />
-        <mark key="^" line="38" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1538106089088">
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="/code/projects/mydumper/mydumper.c" timestamp="1533129719973">
         <mark key="a" line="1575" column="45" />
@@ -77,8 +77,8 @@
         <mark key="." line="19" column="37" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1537349890261">
-        <mark key="'" line="1013" column="11" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1538105739270">
+        <mark key="'" line="1218" column="15" />
         <mark key="[" line="1014" column="27" />
         <mark key="]" line="1014" column="27" />
         <mark key="^" line="1014" column="27" />
@@ -185,10 +185,11 @@
       <jump line="1013" column="11" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="43" column="0" filename="$USER_HOME$/CLionProjects/mydumper/connection.c" />
       <jump line="19" column="7" filename="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" />
+      <jump line="1218" column="15" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnX2NyaXRpY2FsKCJ4eHh4eHh4Iik7Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvbmZpZy5oIgo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -200,31 +201,31 @@
         <text encoding="base64">CWdfbWVzc2FnZSgnc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnX2NyaXRpY2FsKCJ4eHh4eHh4Iik7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZGV2ZWxvcAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZWxvcAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">I2luY2x1ZGUgImNvbmZpZy5oIgo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBnX2NyaXRpY2FsKCJ4eHh4eHh4Iik7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGV2ZWxvcAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZWxvcAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm15bG9hZGVyLmgiCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvbmZpZy5oIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIm15bG9hZGVyLmgiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW5kaWYoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhZGRfZGVmaW5pdGlvbnMoLURXSVRIX1NTTCkK</text>
+        <text encoding="base64">ZW5kaWYoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgKFdJVEhfU1NMKQo=</text>
+        <text encoding="base64">ICBhZGRfZGVmaW5pdGlvbnMoLURXSVRIX1NTTCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
