@@ -17,22 +17,18 @@
       <file name="/code/projects/mysql-server/libevent/event_rpcgen.py" timestamp="1503113934784">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1537371614998">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="/code/projects/mysql-server/.gitignore" timestamp="1503113040871">
         <mark key="[" line="3122" column="0" />
         <mark key="]" line="3122" column="0" />
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1537370447123">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="19" />
-        <mark key="^" line="38" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1537350979696">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="19" column="37" />
       </file>
       <file name="/code/projects/mydumper/mydumper.c" timestamp="1533129719973">
         <mark key="a" line="1575" column="45" />
@@ -41,6 +37,12 @@
         <mark key="]" line="2680" column="0" />
         <mark key="." line="2680" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1537370447123">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="19" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="/fragment.m" timestamp="1530206301317">
         <mark key="[" line="0" column="0" />
       </file>
@@ -48,6 +50,11 @@
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1537371614998">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/code/projects/mydumper/myloader.h" timestamp="1532597646077">
         <mark key="[" line="47" column="9" />
@@ -70,13 +77,6 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1537350979696">
-        <mark key="'" line="19" column="7" />
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="37" />
-        <mark key="^" line="19" column="37" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1537349890261">
         <mark key="'" line="1013" column="11" />
         <mark key="[" line="1014" column="27" />
@@ -85,13 +85,12 @@
         <mark key="." line="1014" column="27" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
-        <mark key="'" line="243" column="16" />
-        <mark key="[" line="224" column="32" />
-        <mark key="]" line="413" column="4" />
-        <mark key="^" line="413" column="4" />
-        <mark key="." line="413" column="4" />
+        <mark key="'" line="244" column="16" />
+        <mark key="[" line="225" column="32" />
+        <mark key="]" line="414" column="4" />
+        <mark key="^" line="414" column="4" />
+        <mark key="." line="414" column="4" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/config.h" timestamp="1537350728129" />
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
       </file>
