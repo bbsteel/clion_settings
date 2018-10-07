@@ -85,12 +85,12 @@
         <mark key="^" line="1014" column="27" />
         <mark key="." line="1014" column="27" />
       </file>
-      <file name="/code/projects/mydumper/myloader.c" timestamp="1538933047446">
+      <file name="/code/projects/mydumper/myloader.c" timestamp="1538933742936">
         <mark key="'" line="244" column="16" />
-        <mark key="[" line="528" column="59" />
-        <mark key="]" line="528" column="59" />
-        <mark key="^" line="528" column="59" />
-        <mark key="." line="528" column="59" />
+        <mark key="[" line="521" column="34" />
+        <mark key="]" line="521" column="34" />
+        <mark key="^" line="521" column="43" />
+        <mark key="." line="521" column="34" />
       </file>
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
@@ -188,11 +188,11 @@
       <jump line="19" column="7" filename="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBnX2NyaXRpY2FsKCJ4eHh4eHh4Iik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXSVRIX1NTTFw+</text>
