@@ -33,12 +33,13 @@
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
       </file>
-      <file name="/code/projects/mydumper/mydumper.c" timestamp="1539013795820">
+      <file name="/code/projects/mydumper/mydumper.c" timestamp="1539015831275">
         <mark key="a" line="1575" column="45" />
         <mark key="'" line="1659" column="28" />
-        <mark key="[" line="2680" column="0" />
-        <mark key="]" line="2680" column="0" />
-        <mark key="." line="2680" column="0" />
+        <mark key="[" line="2885" column="15" />
+        <mark key="]" line="2885" column="16" />
+        <mark key="." line="2885" column="16" />
+        <mark key="^" line="2885" column="16" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1538749378950">
         <mark key="[" line="35" column="19" />
@@ -198,11 +199,11 @@
       <jump line="97" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvbmZpZy5oIgo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>glit</text>
