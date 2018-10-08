@@ -6,7 +6,7 @@
       <file name="/GDB" timestamp="1530206245686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537371653707">
+      <file name="/Dummy.txt" timestamp="1538126621007">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -14,9 +14,13 @@
       <file name="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" timestamp="1525961259631">
         <mark key="'" line="70" column="16" />
       </file>
-      <file name="/usr/include/x86_64-linux-gnu/bits/stdio2.h" timestamp="1538932206315" />
       <file name="/code/projects/mysql-server/libevent/event_rpcgen.py" timestamp="1503113934784">
         <mark key="'" line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1537371614998">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/code/projects/mysql-server/.gitignore" timestamp="1503113040871">
         <mark key="[" line="3122" column="0" />
@@ -24,12 +28,11 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1537350979696">
-        <mark key="'" line="19" column="7" />
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="37" />
-        <mark key="^" line="19" column="37" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1538749378950">
+        <mark key="[" line="35" column="19" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
+        <mark key="'" line="97" column="15" />
       </file>
       <file name="/code/projects/mydumper/mydumper.c" timestamp="1533129719973">
         <mark key="a" line="1575" column="45" />
@@ -38,12 +41,6 @@
         <mark key="]" line="2680" column="0" />
         <mark key="." line="2680" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1537370447123">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="19" />
-        <mark key="^" line="38" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="/fragment.m" timestamp="1530206301317">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,11 +48,6 @@
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1537371614998">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="/code/projects/mydumper/myloader.h" timestamp="1532597646077">
         <mark key="[" line="47" column="9" />
@@ -78,19 +70,26 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1537349890261">
-        <mark key="'" line="1013" column="11" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1537350979696">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="19" column="37" />
+        <mark key="^" line="19" column="37" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1538105739270">
+        <mark key="'" line="1218" column="15" />
         <mark key="[" line="1014" column="27" />
         <mark key="]" line="1014" column="27" />
         <mark key="^" line="1014" column="27" />
         <mark key="." line="1014" column="27" />
       </file>
-      <file name="/code/projects/mydumper/myloader.c" timestamp="1538933742936">
-        <mark key="'" line="251" column="16" />
-        <mark key="[" line="528" column="34" />
-        <mark key="]" line="528" column="34" />
-        <mark key="^" line="528" column="43" />
-        <mark key="." line="528" column="34" />
+      <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
+        <mark key="'" line="243" column="16" />
+        <mark key="[" line="224" column="32" />
+        <mark key="]" line="413" column="4" />
+        <mark key="^" line="413" column="4" />
+        <mark key="." line="413" column="4" />
       </file>
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
@@ -186,63 +185,71 @@
       <jump line="1013" column="11" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="43" column="0" filename="$USER_HOME$/CLionProjects/mydumper/connection.c" />
       <jump line="19" column="7" filename="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" />
+      <jump line="1218" column="15" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="65" column="0" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
+      <jump line="49" column="23" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
+      <jump line="58" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
+      <jump line="64" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
+      <jump line="70" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
+      <jump line="75" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
+      <jump line="80" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
+      <jump line="86" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
+      <jump line="91" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
+      <jump line="97" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2luY2x1ZGUgImNvbmZpZy5oIgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXSVRIX1NTTFw+</text>
+        <text>glit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWdfbWVzc2FnZSgnc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzcycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnX2NyaXRpY2FsKCJ4eHh4eHh4Iik7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZGV2ZWxvcAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZWxvcAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">I2luY2x1ZGUgImNvbmZpZy5oIgo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBnX2NyaXRpY2FsKCJ4eHh4eHh4Iik7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGV2ZWxvcAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZWxvcAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">I2luY2x1ZGUgIm15bG9hZGVyLmgiCg==</text>
+        <text encoding="base64">I2luY2x1ZGUgImNvbmZpZy5oIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgIm15bG9hZGVyLmgiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW5kaWYoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhZGRfZGVmaW5pdGlvbnMoLURXSVRIX1NTTCkK</text>
+        <text encoding="base64">ZW5kaWYoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgKFdJVEhfU1NMKQo=</text>
+        <text encoding="base64">ICBhZGRfZGVmaW5pdGlvbnMoLURXSVRIX1NTTCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXSVRIX1NTTFw+</last-search>
+      <last-search>glit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXSVRIX1NTTFw+</last-pattern>
+      <last-pattern>glit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFVElNRURPVVRcPg==</entry>
-        <entry encoding="base64">XDxtX3hjb21fY29tbXNfc3RhdHVzXD4=</entry>
-        <entry>toku</entry>
         <entry encoding="base64">XDxDTUFLRV9GSU5EX0xJQlJBUllfU1VGRklYRVNcPg==</entry>
         <entry>so</entry>
         <entry>.so</entry>
@@ -258,6 +265,11 @@
         <entry encoding="base64">XDxnX21lc3NhZ2VcPg==</entry>
         <entry>1111</entry>
         <entry encoding="base64">XDxXSVRIX1NTTFw+</entry>
+        <entry>glib</entry>
+        <entry>lib</entry>
+        <entry>ins</entry>
+        <entry>for</entry>
+        <entry>glit</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
