@@ -33,13 +33,13 @@
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
       </file>
-      <file name="/code/projects/mydumper/mydumper.c" timestamp="1539015831275">
+      <file name="/code/projects/mydumper/mydumper.c" timestamp="1539015983675">
         <mark key="a" line="1575" column="45" />
-        <mark key="'" line="1659" column="28" />
-        <mark key="[" line="2885" column="15" />
-        <mark key="]" line="2885" column="16" />
-        <mark key="." line="2885" column="16" />
-        <mark key="^" line="2885" column="16" />
+        <mark key="'" line="149" column="132" />
+        <mark key="[" line="2919" column="86" />
+        <mark key="]" line="2920" column="11" />
+        <mark key="." line="2920" column="11" />
+        <mark key="^" line="2920" column="11" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1538749378950">
         <mark key="[" line="35" column="19" />
@@ -197,6 +197,8 @@
       <jump line="86" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
       <jump line="91" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
       <jump line="97" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
+      <jump line="2881" column="18" filename="/code/projects/mydumper/mydumper.c" />
+      <jump line="149" column="132" filename="/code/projects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -206,7 +208,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>glit</text>
+        <text encoding="base64">XDxjaHVua1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWdfbWVzc2FnZSgnc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzcycpOwo=</text>
@@ -243,15 +245,14 @@
       </register>
     </registers>
     <search>
-      <last-search>glit</last-search>
+      <last-search encoding="base64">XDxjaHVua1w+</last-search>
       <last-offset />
-      <last-pattern>glit</last-pattern>
+      <last-pattern encoding="base64">XDxjaHVua1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDTUFLRV9GSU5EX0xJQlJBUllfU1VGRklYRVNcPg==</entry>
         <entry>so</entry>
         <entry>.so</entry>
         <entry>\.so</entry>
@@ -271,6 +272,7 @@
         <entry>ins</entry>
         <entry>for</entry>
         <entry>glit</entry>
+        <entry encoding="base64">XDxjaHVua1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
