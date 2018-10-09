@@ -28,13 +28,13 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539072182028">
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539072934294">
         <mark key="a" line="538" column="12" />
         <mark key="'" line="75" column="4" />
-        <mark key="[" line="538" column="16" />
-        <mark key="]" line="541" column="30" />
-        <mark key="^" line="541" column="30" />
-        <mark key="." line="541" column="30" />
+        <mark key="[" line="539" column="65" />
+        <mark key="]" line="539" column="72" />
+        <mark key="^" line="539" column="72" />
+        <mark key="." line="539" column="72" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
@@ -222,10 +222,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>need</text>
+        <text>commited</text>
       </register>
       <register name="-" type="4">
-        <text>need</text>
+        <text>commited</text>
       </register>
       <register name="/" type="4">
         <text>glit</text>
