@@ -28,13 +28,13 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539080572157">
-        <mark key="a" line="547" column="12" />
-        <mark key="'" line="75" column="4" />
-        <mark key="[" line="580" column="0" />
-        <mark key="]" line="580" column="0" />
-        <mark key="^" line="579" column="34" />
-        <mark key="." line="580" column="0" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539088886854">
+        <mark key="a" line="548" column="12" />
+        <mark key="'" line="509" column="4" />
+        <mark key="[" line="245" column="16" />
+        <mark key="]" line="245" column="16" />
+        <mark key="^" line="230" column="32" />
+        <mark key="." line="245" column="25" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
@@ -88,12 +88,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1539080177889">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1539089022241">
         <mark key="'" line="1218" column="15" />
-        <mark key="[" line="1014" column="27" />
-        <mark key="]" line="1014" column="27" />
-        <mark key="^" line="1014" column="27" />
-        <mark key="." line="1014" column="27" />
+        <mark key="[" line="510" column="8" />
+        <mark key="]" line="510" column="16" />
+        <mark key="^" line="510" column="16" />
+        <mark key="." line="510" column="16" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -219,13 +219,15 @@
       <jump line="52" column="0" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
       <jump line="537" column="12" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
       <jump line="75" column="4" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
+      <jump line="569" column="127" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
+      <jump line="509" column="4" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>g_warning</text>
       </register>
       <register name="-" type="4">
-        <text>commited</text>
+        <text>g_warning</text>
       </register>
       <register name="/" type="4">
         <text>glit</text>
@@ -234,31 +236,31 @@
         <text encoding="base64">CXsgImRpc2FibGUtc3FsbW9kZSIsICdtJywgMCwgR19PUFRJT05fQVJHX05PTkUsICZkaXNhYmxlX3NxbG1vZGUsICJEaXNhYmxlIFNRTC1NT0RFIHdoZW4gcmVzdG9yaW5nIHNjaGVtYSIsIE5VTEwgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWdjaGFyKiBjb21wbGV0ZV9mbGFnID0gZ19idWlsZF9maWxlbmFtZShkaXJlY3RvcnksIGZpbGVuYW1lLCAiLmNvbXBsZXRlIiwgTlVMTCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICAK</text>
+        <text encoding="base64">CQkJZmNsb3NlKGNvbXBsZXRlX2ZsYWdfZmlsZSk7CgkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlmY2xvc2UoY29tcGxldGVfZmxhZ19maWxlKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUdTdHJpbmcgKmRhdGE9IGdfc3RyaW5nX3NpemVkX25ldyg1MTIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWdjaGFyKiBjb21wbGV0ZV9mbGFnID0gZ19idWlsZF9maWxlbmFtZShkaXJlY3RvcnksIGZpbGVuYW1lLCAiLmNvbXBsZXRlIiwgTlVMTCk7Cg==</text>
+        <text encoding="base64">CSAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlteXNxbF9xdWVyeShjb25uLCAiU1RBUlQgVFJBTlNBQ1RJT04iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -347,8 +349,11 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
