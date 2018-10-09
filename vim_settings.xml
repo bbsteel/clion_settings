@@ -6,7 +6,7 @@
       <file name="/GDB" timestamp="1530206245686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539001844875">
+      <file name="/Dummy.txt" timestamp="1539047279813">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -28,7 +28,7 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539001840451">
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539047155259">
         <mark key="'" line="71" column="4" />
         <mark key="[" line="73" column="100" />
         <mark key="]" line="73" column="101" />
@@ -44,6 +44,12 @@
         <mark key="[" line="2680" column="0" />
         <mark key="]" line="2680" column="0" />
         <mark key="." line="2680" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/README.md" timestamp="1539047264452">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="/fragment.m" timestamp="1530206301317">
         <mark key="[" line="0" column="0" />
@@ -74,12 +80,12 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1537350979696">
+      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1539047325626">
         <mark key="'" line="19" column="7" />
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="37" />
-        <mark key="^" line="19" column="37" />
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1538105739270">
         <mark key="'" line="1218" column="15" />
@@ -94,6 +100,12 @@
         <mark key="]" line="413" column="4" />
         <mark key="^" line="413" column="4" />
         <mark key="." line="413" column="4" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/config.h" timestamp="1539047174754">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
       </file>
       <file name="/fragment.java" timestamp="1500740178163">
         <mark key="[" line="0" column="0" />
@@ -201,6 +213,7 @@
       <jump line="91" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
       <jump line="97" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
       <jump line="70" column="4" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/mydumper/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
