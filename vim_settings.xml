@@ -28,12 +28,12 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539055764859">
-        <mark key="'" line="97" column="4" />
-        <mark key="[" line="552" column="5" />
-        <mark key="]" line="553" column="0" />
-        <mark key="." line="553" column="0" />
-        <mark key="^" line="553" column="0" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539067710328">
+        <mark key="'" line="99" column="4" />
+        <mark key="[" line="75" column="114" />
+        <mark key="]" line="75" column="144" />
+        <mark key="^" line="75" column="144" />
+        <mark key="." line="75" column="144" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
@@ -218,16 +218,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>while</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>while</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>glit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXsgImVuYWJsZS1iaW5sb2ciLCAnZScsIDAsIEdfT1BUSU9OX0FSR19OT05FLCAmZW5hYmxlX2JpbmxvZywgIkVuYWJsZSBiaW5hcnkgbG9nZ2luZyBvZiB0aGUgcmVzdG9yZSBkYXRhIiwgTlVMTCB9LAo=</text>
+        <text encoding="base64">CXsgImRpc2FibGUtc3FsbW9kZSIsICdtJywgMCwgR19PUFRJT05fQVJHX05PTkUsICZkaXNhYmxlX3NxbG1vZGUsICJEaXNhYmxlIFNRTC1NT0RFIHdoZW4gcmVzdG9yaW5nIHNjaGVtYSIsIE5VTEwgfSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkK</text>
@@ -343,7 +343,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
