@@ -28,13 +28,13 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539072934294">
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539073286568">
         <mark key="a" line="538" column="12" />
         <mark key="'" line="75" column="4" />
-        <mark key="[" line="539" column="65" />
-        <mark key="]" line="539" column="72" />
-        <mark key="^" line="539" column="72" />
-        <mark key="." line="539" column="72" />
+        <mark key="[" line="564" column="20" />
+        <mark key="]" line="565" column="4" />
+        <mark key="^" line="565" column="4" />
+        <mark key="." line="565" column="4" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
@@ -88,7 +88,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1538105739270">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1539073385289">
         <mark key="'" line="1218" column="15" />
         <mark key="[" line="1014" column="27" />
         <mark key="]" line="1014" column="27" />
