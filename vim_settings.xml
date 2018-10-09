@@ -28,12 +28,13 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539068340847">
-        <mark key="'" line="99" column="4" />
-        <mark key="[" line="537" column="33" />
-        <mark key="]" line="537" column="33" />
-        <mark key="^" line="537" column="33" />
-        <mark key="." line="537" column="33" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539072182028">
+        <mark key="a" line="538" column="12" />
+        <mark key="'" line="75" column="4" />
+        <mark key="[" line="538" column="16" />
+        <mark key="]" line="541" column="30" />
+        <mark key="^" line="541" column="30" />
+        <mark key="." line="541" column="30" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
@@ -215,13 +216,16 @@
       <jump line="70" column="4" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
       <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/mydumper/README.md" />
       <jump line="97" column="4" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
+      <jump line="52" column="0" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
+      <jump line="537" column="12" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
+      <jump line="75" column="4" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>need</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>need</text>
       </register>
       <register name="/" type="4">
         <text>glit</text>
