@@ -43,4 +43,8 @@
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="Print" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
 </keymap>
