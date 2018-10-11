@@ -28,14 +28,14 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539261845117">
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539264434930">
         <mark key="a" line="569" column="12" />
         <mark key="b" line="152" column="41" />
         <mark key="'" line="137" column="0" />
-        <mark key="[" line="516" column="8" />
-        <mark key="]" line="516" column="22" />
-        <mark key="." line="516" column="22" />
-        <mark key="^" line="516" column="22" />
+        <mark key="[" line="75" column="95" />
+        <mark key="]" line="75" column="99" />
+        <mark key="." line="75" column="99" />
+        <mark key="^" line="75" column="99" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
@@ -225,11 +225,11 @@
       <jump line="137" column="0" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CglpZiAoZ19maWxlX3Rlc3QoY29tcGxldGVfZmxhZywgR19GSUxFX1RFU1RfRVhJU1RTKSkgewoJCWdfbWVzc2FnZSgiJXMgb2YgJXMuJXMgaGFzIGJlZW4gcmVzdG9yZWQgaW4gdGFyZ2V0LCBubyBuZWVkIHRvIHJlc3RvcmUgdHdpY2UuIiwKCQkJCSAgZmlsZW5hbWUsIGRhdGFiYXNlLCB0YWJsZSk7CgkJZ19mcmVlKGNvbXBsZXRlX2ZsYWcpOwoJCXJldHVybjsKCX0KCQo=</text>
+      <register name="&quot;" type="4">
+        <text>wsql</text>
       </register>
       <register name="-" type="4">
-        <text>complete_flag_file</text>
+        <text>wsql</text>
       </register>
       <register name="/" type="4">
         <text>glit</text>
