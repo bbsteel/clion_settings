@@ -28,14 +28,14 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539326331012">
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539328812551">
         <mark key="a" line="568" column="12" />
         <mark key="b" line="152" column="41" />
         <mark key="'" line="207" column="21" />
-        <mark key="[" line="593" column="14" />
-        <mark key="]" line="593" column="14" />
-        <mark key="." line="593" column="14" />
-        <mark key="^" line="593" column="14" />
+        <mark key="[" line="604" column="63" />
+        <mark key="]" line="604" column="63" />
+        <mark key="." line="604" column="63" />
+        <mark key="^" line="604" column="63" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
@@ -89,8 +89,8 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1539312697811">
-        <mark key="'" line="1218" column="15" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1539328328102">
+        <mark key="'" line="1291" column="136" />
         <mark key="[" line="510" column="8" />
         <mark key="]" line="510" column="16" />
         <mark key="^" line="510" column="16" />
@@ -123,7 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="791" column="14" filename="/code/projects/mysql-server/rapid/plugin/group_replication/libmysqlgcs/src/bindings/xcom/gcs_xcom_utils.cc" />
       <jump line="779" column="6" filename="/code/projects/mysql-server/rapid/plugin/group_replication/libmysqlgcs/src/bindings/xcom/gcs_xcom_utils.cc" />
       <jump line="432" column="57" filename="/code/projects/mydumper/mydumper.c" />
       <jump line="458" column="18" filename="/code/projects/mydumper/mydumper.c" />
@@ -223,6 +222,7 @@
       <jump line="595" column="0" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
       <jump line="137" column="0" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
       <jump line="207" column="21" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
+      <jump line="1291" column="136" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
