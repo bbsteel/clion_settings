@@ -28,14 +28,14 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539314869000">
-        <mark key="a" line="569" column="12" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1539325164033">
+        <mark key="a" line="568" column="12" />
         <mark key="b" line="152" column="41" />
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="75" column="95" />
-        <mark key="]" line="75" column="99" />
-        <mark key="." line="75" column="99" />
-        <mark key="^" line="75" column="99" />
+        <mark key="'" line="207" column="21" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="153" column="75" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
@@ -123,7 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="/code/projects/mysql-server/libevent/event_rpcgen.py" />
       <jump line="791" column="14" filename="/code/projects/mysql-server/rapid/plugin/group_replication/libmysqlgcs/src/bindings/xcom/gcs_xcom_utils.cc" />
       <jump line="779" column="6" filename="/code/projects/mysql-server/rapid/plugin/group_replication/libmysqlgcs/src/bindings/xcom/gcs_xcom_utils.cc" />
       <jump line="432" column="57" filename="/code/projects/mydumper/mydumper.c" />
@@ -223,13 +222,14 @@
       <jump line="484" column="0" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
       <jump line="595" column="0" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
       <jump line="137" column="0" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
+      <jump line="207" column="21" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>wsql</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>wsql</text>
+        <text>g_strrstr</text>
       </register>
       <register name="/" type="4">
         <text>glit</text>
@@ -238,31 +238,31 @@
         <text encoding="base64">CQkJZ19mcmVlKG5vcm1hbF9tb2RlX2ZsYWcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CglpZiAoZ19maWxlX3Rlc3QoY29tcGxldGVfZmxhZywgR19GSUxFX1RFU1RfRVhJU1RTKSkgewoJCWdfbWVzc2FnZSgiJXMgb2YgJXMuJXMgaGFzIGJlZW4gcmVzdG9yZWQgaW4gdGFyZ2V0LCBubyBuZWVkIHRvIHJlc3RvcmUgdHdpY2UuIiwKCQkJCSAgZmlsZW5hbWUsIGRhdGFiYXNlLCB0YWJsZSk7CgkJZ19mcmVlKGNvbXBsZXRlX2ZsYWcpOwoJCXJldHVybjsKCX0KCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CglpZiAoZ19maWxlX3Rlc3QoY29tcGxldGVfZmxhZywgR19GSUxFX1RFU1RfRVhJU1RTKSkgewoJCWdfbWVzc2FnZSgiJXMgb2YgJXMuJXMgaGFzIGJlZW4gcmVzdG9yZWQgaW4gdGFyZ2V0LCBubyBuZWVkIHRvIHJlc3RvcmUgdHdpY2UuIiwKCQkJCSAgZmlsZW5hbWUsIGRhdGFiYXNlLCB0YWJsZSk7CgkJZ19mcmVlKGNvbXBsZXRlX2ZsYWcpOwoJCXJldHVybjsKCX0KCQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZ19mcmVlKHJlc3VtZV9tb2RlX2ZsYWcpOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CWdjaGFyKiByZXN1bWVfbW9kZV9mbGFnID0gZ19zdHJkdXBfcHJpbnRmKCIlcy9sb2FkX3dpdGhfcmVzdW1lX21vZGUiLCBkaXJlY3RvcnkpOwo=</text>
+        <text encoding="base64">CQkJZ19mcmVlKHJlc3VtZV9tb2RlX2ZsYWcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJZXJyb3JzKys7Cg==</text>
+        <text encoding="base64">CWdjaGFyKiByZXN1bWVfbW9kZV9mbGFnID0gZ19zdHJkdXBfcHJpbnRmKCIlcy9sb2FkX3dpdGhfcmVzdW1lX21vZGUiLCBkaXJlY3RvcnkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlGSUxFICpyZXN1bWVfZmxhZ19maWxlID0gZ19mb3BlbihyZXN1bWVfZmxhZ19maWxlLCAidyIpOwoJCWlmICghcmVzdW1lX2ZsYWdfZmlsZSkgewoJCQlnX2NyaXRpY2FsKCJjcmVhdGUgcmVzdW1lIG1vZGUgZmxhZyBbJXNdIGZvciAlcyBmYWlsZWQoJWQpIiwgcmVzdW1lX2ZsYWdfZmlsZSwgZmlsZW5hbWUsIGVycm5vKTsKCQkJZXJyb3JzKys7CgkJfSBlbHNlIHsKCQkJZmNsb3NlKGNvbXBsZXRlX2ZsYWdfZmlsZSk7CgkJfQo=</text>
+        <text encoding="base64">CQkJZXJyb3JzKys7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlGSUxFICpyZXN1bWVfZmxhZ19maWxlID0gZ19mb3BlbihyZXN1bWVfZmxhZ19maWxlLCAidyIpOwoJCWlmICghcmVzdW1lX2ZsYWdfZmlsZSkgewoJCQlnX2NyaXRpY2FsKCJjcmVhdGUgcmVzdW1lIG1vZGUgZmxhZyBbJXNdIGZvciAlcyBmYWlsZWQoJWQpIiwgcmVzdW1lX2ZsYWdfZmlsZSwgZmlsZW5hbWUsIGVycm5vKTsKCQkJZXJyb3JzKys7CgkJfSBlbHNlIHsKCQkJZmNsb3NlKGNvbXBsZXRlX2ZsYWdfZmlsZSk7CgkJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CW5vcm1hbF9tb2RlX2ZsYWcgPSA7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJlc3VtZV9tb2RlX2ZsYWcgPSA7Cg==</text>
+        <text encoding="base64">CW5vcm1hbF9tb2RlX2ZsYWcgPSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
