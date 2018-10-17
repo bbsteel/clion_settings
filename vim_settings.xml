@@ -6,11 +6,6 @@
       <file name="/GDB" timestamp="1539314804252">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539329674281">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" timestamp="1525961259631">
         <mark key="'" line="70" column="16" />
       </file>
@@ -82,9 +77,9 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1539047325626">
+      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1539767029681">
         <mark key="'" line="19" column="7" />
-        <mark key="[" line="2" column="17" />
+        <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
