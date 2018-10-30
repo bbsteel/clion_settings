@@ -3,19 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/GDB" timestamp="1530206245686">
+      <file name="vim_settings.xml" timestamp="1540903057144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538126621007">
+      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1540903807148">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" timestamp="1525961259631">
-        <mark key="'" line="70" column="16" />
-      </file>
-      <file name="/code/projects/mysql-server/libevent/event_rpcgen.py" timestamp="1503113934784">
-        <mark key="'" line="51" column="0" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="/code/projects/mysql-server/.gitignore" timestamp="1503113040871">
         <mark key="[" line="3122" column="0" />
@@ -23,12 +17,6 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1537350979696">
-        <mark key="'" line="19" column="7" />
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="37" />
-        <mark key="^" line="19" column="37" />
       <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1540536067526">
         <mark key="a" line="568" column="12" />
         <mark key="b" line="152" column="41" />
@@ -41,12 +29,6 @@
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
       </file>
-      <file name="/code/projects/mydumper/mydumper.c" timestamp="1540714844365">
-        <mark key="'" line="149" column="132" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1538749378950">
-        <mark key="[" line="35" column="19" />
-      </file>
       <file name="/fragment.m" timestamp="1530206301317">
         <mark key="[" line="0" column="0" />
       </file>
@@ -54,11 +36,6 @@
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1537371614998">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="/code/projects/mydumper/myloader.h" timestamp="1532597646077">
         <mark key="[" line="47" column="9" />
@@ -69,37 +46,20 @@
       <file name="/usr/include/pcre.h" timestamp="1528620722977">
         <mark key="'" line="676" column="0" />
       </file>
-      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Collections.class" timestamp="1501260132926">
-        <mark key="'" line="4411" column="0" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/common.h" timestamp="1540904324417">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="120" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="/code/projects/mydumper/CMakeLists.txt" timestamp="1530957734130">
-        <mark key="[" line="39" column="136" />
-        <mark key="]" line="39" column="143" />
-        <mark key="^" line="39" column="143" />
-        <mark key="." line="39" column="143" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1538105739270">
-        <mark key="'" line="1218" column="15" />
-        <mark key="[" line="1014" column="27" />
-        <mark key="]" line="1014" column="27" />
-        <mark key="^" line="1014" column="27" />
-        <mark key="." line="1014" column="27" />
-      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1539767029681">
-        <mark key="'" line="19" column="7" />
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1539328328102">
-        <mark key="'" line="1291" column="136" />
-        <mark key="[" line="510" column="8" />
-        <mark key="]" line="510" column="16" />
-        <mark key="^" line="510" column="16" />
-        <mark key="." line="510" column="16" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1540904317470">
+        <mark key="'" line="102" column="7" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="^" line="470" column="16" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -107,9 +67,6 @@
         <mark key="]" line="413" column="4" />
         <mark key="^" line="413" column="4" />
         <mark key="." line="413" column="4" />
-      </file>
-      <file name="/fragment.java" timestamp="1500740178163">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/IdeaProjects/mine/test/src/Main.java" timestamp="1500740203489">
         <mark key="[" line="7" column="0" />
@@ -120,160 +77,140 @@
       <file name="/code/projects/mydumper/connection.h" timestamp="1528640462569">
         <mark key="'" line="18" column="17" />
       </file>
+      <file name="/GDB" timestamp="1539314804252">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1540904328878">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" timestamp="1525961259631">
+        <mark key="'" line="70" column="16" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/logger.h" timestamp="1540904171429">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="113" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="18" column="33" />
+      </file>
+      <file name="/code/projects/mysql-server/libevent/event_rpcgen.py" timestamp="1503113934784">
+        <mark key="'" line="51" column="0" />
+      </file>
+      <file name="/code/projects/mydumper/mydumper.c" timestamp="1533129719973">
+        <mark key="a" line="1575" column="45" />
+        <mark key="'" line="1659" column="28" />
+        <mark key="[" line="2680" column="0" />
+        <mark key="]" line="2680" column="0" />
+        <mark key="." line="2680" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/README.md" timestamp="1539047264452">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/logger.c" timestamp="1540904270854">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="material_theme.xml" timestamp="1540903098891">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Collections.class" timestamp="1501260132926">
+        <mark key="'" line="4411" column="0" />
+      </file>
+      <file name="/code/projects/mydumper/CMakeLists.txt" timestamp="1530957734130">
+        <mark key="[" line="39" column="136" />
+        <mark key="]" line="39" column="143" />
+        <mark key="^" line="39" column="143" />
+        <mark key="." line="39" column="143" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1539767029681">
+        <mark key="'" line="19" column="7" />
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/mydumper/config.h" timestamp="1539047174754">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="3" column="23" />
+      </file>
+      <file name="/fragment.java" timestamp="1500740178163">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="4" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Collections.class" />
-      <jump line="4411" column="0" filename="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Collections.class" />
-      <jump line="1253" column="4" filename="/code/projects/mysql-server/libevent/event_rpcgen.py" />
-      <jump line="51" column="0" filename="/code/projects/mysql-server/libevent/event_rpcgen.py" />
-      <jump line="791" column="14" filename="/code/projects/mysql-server/rapid/plugin/group_replication/libmysqlgcs/src/bindings/xcom/gcs_xcom_utils.cc" />
-      <jump line="779" column="6" filename="/code/projects/mysql-server/rapid/plugin/group_replication/libmysqlgcs/src/bindings/xcom/gcs_xcom_utils.cc" />
-      <jump line="432" column="57" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="458" column="18" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="459" column="74" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="1066" column="5" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="1482" column="8" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="167" column="56" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="895" column="21" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="524" column="0" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="11" column="0" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="44" column="4" filename="/code/projects/mydumper/CMakeLists.txt" />
-      <jump line="25" column="0" filename="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" />
-      <jump line="39" column="22" filename="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" />
-      <jump line="70" column="16" filename="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" />
-      <jump line="1387" column="67" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="1318" column="24" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="1313" column="16" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="1316" column="23" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="1274" column="57" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="1415" column="8" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="985" column="21" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="400" column="0" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="518" column="25" filename="/code/projects/mydumper/myloader.c" />
-      <jump line="819" column="79" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="572" column="19" filename="/usr/include/pcre.h" />
-      <jump line="28" column="36" filename="/usr/include/pcre.h" />
-      <jump line="676" column="0" filename="/usr/include/pcre.h" />
-      <jump line="18" column="17" filename="/code/projects/mydumper/connection.h" />
-      <jump line="2179" column="45" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="1145" column="8" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="184" column="4" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="2032" column="42" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="146" column="4" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="2106" column="35" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="3132" column="4" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="3105" column="60" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="0" column="0" filename="/usr/include/x86_64-linux-gnu/bits/mathcalls.h" />
-      <jump line="3003" column="28" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="150" column="4" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="168" column="125" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="1378" column="0" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="2820" column="0" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="1463" column="15" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="82" column="4" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="177" column="51" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="1262" column="17" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="425" column="4" filename="/code/projects/mydumper/myloader.c" />
-      <jump line="2787" column="19" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="6585" column="52" filename="/code/projects/mysql-server/sql/sql_show.cc" />
-      <jump line="9457" column="0" filename="/code/projects/mysql-server/sql/sql_show.cc" />
-      <jump line="2227" column="40" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="1597" column="21" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="2681" column="38" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="658" column="32" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="96" column="0" filename="/code/projects/mydumper/myloader.c" />
-      <jump line="145" column="26" filename="/code/projects/mydumper/myloader.c" />
-      <jump line="1045" column="1" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="52" column="6" filename="/code/projects/mydumper/myloader.c" />
-      <jump line="225" column="16" filename="/code/projects/mydumper/myloader.c" />
-      <jump line="378" column="16" filename="/code/projects/mydumper/myloader.c" />
-      <jump line="449" column="22" filename="/code/projects/mydumper/myloader.c" />
-      <jump line="242" column="16" filename="/code/projects/mydumper/myloader.c" />
-      <jump line="1659" column="28" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="2102" column="35" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="18" column="33" filename="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" />
-      <jump line="479" column="13" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="68" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="21" column="0" filename="$USER_HOME$/CLionProjects/mydumper/connection.c" />
-      <jump line="472" column="12" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="498" column="8" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="262" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="1013" column="11" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="43" column="0" filename="$USER_HOME$/CLionProjects/mydumper/connection.c" />
-      <jump line="19" column="7" filename="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" />
-      <jump line="1218" column="15" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="65" column="0" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
-      <jump line="49" column="23" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
-      <jump line="58" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
-      <jump line="64" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
-      <jump line="70" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
-      <jump line="75" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
-      <jump line="80" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
-      <jump line="86" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
-      <jump line="91" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
-      <jump line="97" column="15" filename="$USER_HOME$/CLionProjects/mydumper/Makefile" />
-      <jump line="2881" column="18" filename="/code/projects/mydumper/mydumper.c" />
-      <jump line="149" column="132" filename="/code/projects/mydumper/mydumper.c" />
+      <jump line="2615" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="147" column="27" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="222" column="5" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="211" column="5" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="220" column="5" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="3122" column="5" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="21" column="0" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
+      <jump line="3110" column="1" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="103" column="6" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="1007" column="15" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="1008" column="15" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="172" column="49" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="102" column="7" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJLy9lbmRyZWdpb24K</text>
+        <text encoding="base64">CXsgImxvZ2ZpbGUiLCAnTCcsIDAsIEdfT1BUSU9OX0FSR19GSUxFTkFNRSwgJmxvZ2ZpbGUsICJMb2cgZmlsZSBuYW1lIHRvIHVzZSwgYnkgZGVmYXVsdCBzdGRvdXQgaXMgdXNlZCIsIE5VTEwgfSwK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">CSh2b2lkKSBsb2dfbGV2ZWw7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaHVua1w+</text>
+        <text encoding="base64">XDxsb2dmaWxlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CWdfbWVzc2FnZSgnc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3NzcycpOwo=</text>
+      <register name="0" type="4">
+        <text>void set_verbose(guint verbosity)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJLy9lbmRyZWdpb24K</text>
+        <text encoding="base64">CXsgImxvZ2ZpbGUiLCAnTCcsIDAsIEdfT1BUSU9OX0FSR19GSUxFTkFNRSwgJmxvZ2ZpbGUsICJMb2cgZmlsZSBuYW1lIHRvIHVzZSwgYnkgZGVmYXVsdCBzdGRvdXQgaXMgdXNlZCIsIE5VTEwgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy9yZWdpb24gRGVzY3JpcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vZW5kcmVnaW9uCg==</text>
+        <text encoding="base64">dm9pZCB3cml0ZV9sb2dfZmlsZShjb25zdCBnY2hhciAqbG9nX2RvbWFpbiwgR0xvZ0xldmVsRmxhZ3MgbG9nX2xldmVsLCBjb25zdCBnY2hhciAqbWVzc2FnZSwgZ3BvaW50ZXIgdXNlcl9kYXRhKSB7Cgkodm9pZCkgbG9nX2RvbWFpbjsKCSh2b2lkKSB1c2VyX2RhdGE7CgoJZ2NoYXIgZGF0ZVsyMF07Cgl0aW1lX3QgcmF3dGltZTsKCXN0cnVjdCB0bSB0aW1laW5mbzsKCgl0aW1lKCZyYXd0aW1lKTsKCWxvY2FsdGltZV9yKCZyYXd0aW1lLCAmdGltZWluZm8pOwoJc3RyZnRpbWUoZGF0ZSwgMjAsICIlWS0lbS0lZCAlSDolTTolUyIsICZ0aW1laW5mbyk7CgoJR1N0cmluZyogbWVzc2FnZV9vdXQgPSBnX3N0cmluZ19uZXcoZGF0ZSk7CglpZiAobG9nX2xldmVsICYgR19MT0dfTEVWRUxfREVCVUcpIHsKCQlnX3N0cmluZ19hcHBlbmQobWVzc2FnZV9vdXQsICIgW0RFQlVHXSAtICIpOwoJfSBlbHNlIGlmICgobG9nX2xldmVsICYgR19MT0dfTEVWRUxfSU5GTykKCQl8fCAobG9nX2xldmVsICYgR19MT0dfTEVWRUxfTUVTU0FHRSkpIHsKCQlnX3N0cmluZ19hcHBlbmQobWVzc2FnZV9vdXQsICIgW0lORk9dIC0gIik7Cgl9IGVsc2UgaWYgKGxvZ19sZXZlbCAmIEdfTE9HX0xFVkVMX1dBUk5JTkcpIHsKCQlnX3N0cmluZ19hcHBlbmQobWVzc2FnZV9vdXQsICIgW1dBUk5JTkddIC0gIik7Cgl9IGVsc2UgaWYgKChsb2dfbGV2ZWwgJiBHX0xPR19MRVZFTF9FUlJPUikKCQl8fCAobG9nX2xldmVsICYgR19MT0dfTEVWRUxfQ1JJVElDQUwpKSB7CgkJZ19zdHJpbmdfYXBwZW5kKG1lc3NhZ2Vfb3V0LCAiIFtFUlJPUl0gLSAiKTsKCX0KCglnX3N0cmluZ19hcHBlbmRfcHJpbnRmKG1lc3NhZ2Vfb3V0LCAiJXNcbiIsIG1lc3NhZ2UpOwoJaWYgKHdyaXRlKGZpbGVubyhsb2dvdXRmaWxlKSwgbWVzc2FnZV9vdXQtPnN0ciwgbWVzc2FnZV9vdXQtPmxlbikgPD0gMCkgewoJCWZwcmludGYoc3RkZXJyLCAiQ2Fubm90IHdyaXRlIHRvIGxvZyBmaWxlIHdpdGggZXJyb3IgJWQuICBFeGl0aW5nLi4uIiwgZXJybm8pOwoJfQoJZ19zdHJpbmdfZnJlZShtZXNzYWdlX291dCwgVFJVRSk7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vcmVnaW9uIERlc2NyaXB0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vZW5kcmVnaW9uCg==</text>
+        <text encoding="base64">dm9pZCBub19sb2coY29uc3QgZ2NoYXIgKmxvZ19kb21haW4sIEdMb2dMZXZlbEZsYWdzIGxvZ19sZXZlbCwgY29uc3QgZ2NoYXIgKm1lc3NhZ2UsIGdwb2ludGVyIHVzZXJfZGF0YSkgewoJKHZvaWQpIGxvZ19kb21haW47Cgkodm9pZCkgbG9nX2xldmVsOwoJKHZvaWQpIG1lc3NhZ2U7Cgkodm9pZCkgdXNlcl9kYXRhOwp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vcmVnaW9uIERlc2NyaXB0aW9uCg==</text>
+        <text encoding="base64">dm9pZCB3cml0ZV9sb2dfZmlsZShjb25zdCBnY2hhciAqbG9nX2RvbWFpbiwgR0xvZ0xldmVsRmxhZ3MgbG9nX2xldmVsLCBjb25zdCBnY2hhciAqbWVzc2FnZSwgZ3BvaW50ZXIgdXNlcl9kYXRhKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2luY2x1ZGUgImNvbmZpZy5oIgo=</text>
+        <text encoding="base64">dm9pZCBzZXRfdmVyYm9zZShndWludCB2ZXJib3NpdHkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnX2NyaXRpY2FsKCJ4eHh4eHh4Iik7Cg==</text>
+        <text encoding="base64">dm9pZCBub19sb2coY29uc3QgZ2NoYXIgKmxvZ19kb21haW4sIEdMb2dMZXZlbEZsYWdzIGxvZ19sZXZlbCwgY29uc3QgZ2NoYXIgKm1lc3NhZ2UsIGdwb2ludGVyIHVzZXJfZGF0YSk7CnZvaWQgc2V0X3ZlcmJvc2UoZ3VpbnQgdmVyYm9zaXR5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGV2ZWxvcAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaHVua1w+</last-search>
+      <last-search encoding="base64">XDxsb2dmaWxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaHVua1w+</last-pattern>
+      <last-pattern encoding="base64">XDxsb2dmaWxlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>so</entry>
-        <entry>.so</entry>
-        <entry>\.so</entry>
-        <entry encoding="base64">XDxuXD4=</entry>
-        <entry encoding="base64">XDxsZXNzX2xvY2tpbmdfdGhyZWFkc1w+</entry>
         <entry encoding="base64">XDxjb25uXD4=</entry>
         <entry>chunk</entry>
         <entry>information</entry>
@@ -288,11 +225,16 @@
         <entry>ins</entry>
         <entry>for</entry>
         <entry>glit</entry>
-        <entry encoding="base64">XDxjaHVua1w+</entry>
+        <entry>-L</entry>
+        <entry encoding="base64">XDxHX09QVElPTl9BUkdfRklMRU5BTUVcPg==</entry>
+        <entry encoding="base64">XDxub19sb2dcPg==</entry>
+        <entry encoding="base64">XDx3cml0ZV9sb2dfZmlsZVw+</entry>
+        <entry encoding="base64">XDxsb2dvdXRmaWxlXD4=</entry>
+        <entry encoding="base64">XDxsb2dmaWxlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -345,6 +287,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
