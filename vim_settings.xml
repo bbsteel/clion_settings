@@ -17,13 +17,13 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1540908057936">
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1540909933318">
         <mark key="a" line="544" column="12" />
         <mark key="b" line="128" column="41" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="36" column="17" />
-        <mark key="." line="77" column="0" />
+        <mark key="[" line="446" column="34" />
+        <mark key="]" line="446" column="33" />
+        <mark key="^" line="446" column="33" />
+        <mark key="." line="446" column="33" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
@@ -83,8 +83,10 @@
       <file name="/GDB" timestamp="1539314804252">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540904712661">
+      <file name="/Dummy.txt" timestamp="1540909514078">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" timestamp="1525961259631">
         <mark key="'" line="70" column="16" />
@@ -196,11 +198,11 @@
       <jump line="93" column="97" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>= NULL</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub19sb2dcPg==</text>
@@ -327,6 +329,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
