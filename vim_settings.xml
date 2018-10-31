@@ -17,9 +17,10 @@
         <mark key="^" line="3121" column="26" />
         <mark key="." line="3122" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1540909933318">
+      <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1540974389616">
         <mark key="a" line="544" column="12" />
         <mark key="b" line="128" column="41" />
+        <mark key="'" line="126" column="27" />
         <mark key="[" line="446" column="34" />
         <mark key="]" line="446" column="33" />
         <mark key="^" line="446" column="33" />
@@ -57,12 +58,12 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1540907908557">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1540974369978">
         <mark key="'" line="86" column="9" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="19" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="4" />
         <mark key="^" line="49" column="18" />
-        <mark key="." line="116" column="0" />
+        <mark key="." line="100" column="4" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -196,6 +197,7 @@
       <jump line="80" column="5" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
       <jump line="90" column="72" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
       <jump line="93" column="97" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
+      <jump line="126" column="27" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
