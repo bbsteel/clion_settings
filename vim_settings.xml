@@ -114,8 +114,8 @@
         <mark key="^" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/logger.c" timestamp="1540907626804">
-        <mark key="'" line="90" column="10" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/logger.c" timestamp="1541072363249">
+        <mark key="'" line="40" column="12" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="19" />
         <mark key="." line="17" column="0" />
@@ -199,6 +199,8 @@
       <jump line="93" column="97" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
       <jump line="126" column="27" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
       <jump line="1738" column="21" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="77" column="45" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
+      <jump line="40" column="12" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -208,7 +210,7 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub19sb2dcPg==</text>
+        <text>exit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2luY2x1ZGUgPHVuaXN0ZC5oPgo=</text>
@@ -245,15 +247,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub19sb2dcPg==</last-search>
+      <last-search>exit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub19sb2dcPg==</last-pattern>
+      <last-pattern>exit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry>-D</entry>
         <entry encoding="base64">XDxnX21lc3NhZ2VcPg==</entry>
         <entry>1111</entry>
@@ -273,6 +274,7 @@
         <entry encoding="base64">XDxlcnJub1w+</entry>
         <entry encoding="base64">XDxoYXZlX3NuYXBzaG90X2Nsb25pbmdcPg==</entry>
         <entry encoding="base64">XDxub19sb2dcPg==</entry>
+        <entry>exit</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
