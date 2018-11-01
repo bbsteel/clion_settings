@@ -33,9 +33,6 @@
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
       </file>
-      <file name="/code/projects/mydumper/mydumper.c" timestamp="1540714844365">
-        <mark key="'" line="149" column="132" />
-      </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/myloader.c" timestamp="1538749378950">
         <mark key="[" line="35" column="19" />
       </file>
@@ -57,6 +54,12 @@
         <mark key="]" line="47" column="10" />
         <mark key="^" line="47" column="10" />
         <mark key="." line="47" column="10" />
+      </file>
+      <file name="/code/projects/mydumper/logger.c" timestamp="1541090620239">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+        <mark key="." line="17" column="18" />
       </file>
       <file name="/usr/include/pcre.h" timestamp="1528620722977">
         <mark key="'" line="676" column="0" />
