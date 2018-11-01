@@ -84,7 +84,7 @@
       <file name="/GDB" timestamp="1539314804252">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540909514078">
+      <file name="/Dummy.txt" timestamp="1541073953091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -114,11 +114,12 @@
         <mark key="^" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/logger.c" timestamp="1541072363249">
-        <mark key="'" line="40" column="12" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/logger.c" timestamp="1541073960744">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+        <mark key="^" line="17" column="17" />
       </file>
       <file name="material_theme.xml" timestamp="1540903098891">
         <mark key="[" line="0" column="0" />
@@ -201,6 +202,7 @@
       <jump line="1738" column="21" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="77" column="45" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
       <jump line="40" column="12" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
+      <jump line="43" column="0" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
