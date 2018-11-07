@@ -58,8 +58,8 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1541516282345">
-        <mark key="'" line="1172" column="47" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1541594433825">
+        <mark key="'" line="1391" column="50" />
         <mark key="[" line="126" column="4" />
         <mark key="]" line="126" column="7" />
         <mark key="^" line="126" column="7" />
@@ -204,6 +204,7 @@
       <jump line="40" column="12" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
       <jump line="43" column="0" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
       <jump line="1172" column="47" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="1391" column="50" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
