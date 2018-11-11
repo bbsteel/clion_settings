@@ -55,16 +55,15 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.h" timestamp="1541606505039" />
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1541639024457">
-        <mark key="'" line="1391" column="50" />
-        <mark key="[" line="126" column="4" />
-        <mark key="]" line="126" column="7" />
-        <mark key="^" line="126" column="7" />
-        <mark key="." line="126" column="7" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1541928296528">
+        <mark key="'" line="868" column="64" />
+        <mark key="[" line="373" column="17" />
+        <mark key="]" line="373" column="4" />
+        <mark key="^" line="373" column="4" />
+        <mark key="." line="373" column="4" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -206,68 +205,61 @@
       <jump line="43" column="0" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
       <jump line="1172" column="47" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1391" column="50" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="868" column="64" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RXh0cmFjdCBjb21tb24gbG9nIG1vZHVsZSBhbmQgYWRkIGxvZyBmaWxlIHN1cHBvcnQgdG8gbXlsb2FkZXIK</text>
+        <text encoding="base64">CQltYXN0ZXJwb3M9cm93WzFdOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text>exit</text>
+        <text encoding="base64">XDxteXNxbF9mZXRjaMucX3Jvd1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2luY2x1ZGUgPHVuaXN0ZC5oPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RXh0cmFjdCBjb21tb24gbG9nIG1vZHVsZSBhbmQgYWRkIGxvZyBmaWxlIHN1cHBvcnQgdG8gbXlsb2FkZXIK</text>
+        <text encoding="base64">CQltYXN0ZXJwb3M9cm93WzFdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RXh0cmFjdCBjb21tb24gbG9nIG1vZHVsZSBhbmQgYWRkIGxvZyBmaWxlIHN1cHBvcnQgdG8gbXlsb2FkZXIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dm9pZCBzZXRfdmVyYm9zZShndWludCB2ZXJib3NpdHkpIHsKCXN3aXRjaCAodmVyYm9zaXR5KSB7CgkJY2FzZSAwOgoJCQlnX2xvZ19zZXRfaGFuZGxlcihOVUxMLCAoR0xvZ0xldmVsRmxhZ3MpKEdfTE9HX0xFVkVMX01BU0spLCBub19sb2csIE5VTEwpOwoJCQlicmVhazsKCQljYXNlIDE6CgkJCWdfbG9nX3NldF9oYW5kbGVyKE5VTEwsIChHTG9nTGV2ZWxGbGFncykoR19MT0dfTEVWRUxfV0FSTklORyB8IEdfTE9HX0xFVkVMX01FU1NBR0UpLCBub19sb2csIE5VTEwpOwoJCQlicmVhazsKCQljYXNlIDI6CgkJCWdfbG9nX3NldF9oYW5kbGVyKE5VTEwsIChHTG9nTGV2ZWxGbGFncykoR19MT0dfTEVWRUxfTUVTU0FHRSksIG5vX2xvZywgTlVMTCk7CgkJCWJyZWFrOwoJCWRlZmF1bHQ6CgkJCWJyZWFrOwoJfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dm9pZCBub19sb2coY29uc3QgZ2NoYXIgKmxvZ19kb21haW4sIEdMb2dMZXZlbEZsYWdzIGxvZ19sZXZlbCwgY29uc3QgZ2NoYXIgKm1lc3NhZ2UsIGdwb2ludGVyIHVzZXJfZGF0YSkgewoJKHZvaWQpIGxvZ19kb21haW47Cgkodm9pZCkgbG9nX2xldmVsOwoJKHZvaWQpIG1lc3NhZ2U7Cgkodm9pZCkgdXNlcl9kYXRhOwp9Cg==</text>
+        <text encoding="base64">dm9pZCBzZXRfdmVyYm9zZShndWludCB2ZXJib3NpdHkpIHsKCXN3aXRjaCAodmVyYm9zaXR5KSB7CgkJY2FzZSAwOgoJCQlnX2xvZ19zZXRfaGFuZGxlcihOVUxMLCAoR0xvZ0xldmVsRmxhZ3MpKEdfTE9HX0xFVkVMX01BU0spLCBub19sb2csIE5VTEwpOwoJCQlicmVhazsKCQljYXNlIDE6CgkJCWdfbG9nX3NldF9oYW5kbGVyKE5VTEwsIChHTG9nTGV2ZWxGbGFncykoR19MT0dfTEVWRUxfV0FSTklORyB8IEdfTE9HX0xFVkVMX01FU1NBR0UpLCBub19sb2csIE5VTEwpOwoJCQlicmVhazsKCQljYXNlIDI6CgkJCWdfbG9nX3NldF9oYW5kbGVyKE5VTEwsIChHTG9nTGV2ZWxGbGFncykoR19MT0dfTEVWRUxfTUVTU0FHRSksIG5vX2xvZywgTlVMTCk7CgkJCWJyZWFrOwoJCWRlZmF1bHQ6CgkJCWJyZWFrOwoJfQp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dm9pZCBzZXRfdmVyYm9zZShndWludCB2ZXJib3NpdHkpOwo=</text>
+        <text encoding="base64">dm9pZCBub19sb2coY29uc3QgZ2NoYXIgKmxvZ19kb21haW4sIEdMb2dMZXZlbEZsYWdzIGxvZ19sZXZlbCwgY29uc3QgZ2NoYXIgKm1lc3NhZ2UsIGdwb2ludGVyIHVzZXJfZGF0YSkgewoJKHZvaWQpIGxvZ19kb21haW47Cgkodm9pZCkgbG9nX2xldmVsOwoJKHZvaWQpIG1lc3NhZ2U7Cgkodm9pZCkgdXNlcl9kYXRhOwp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dm9pZCBub19sb2coY29uc3QgZ2NoYXIgKmxvZ19kb21haW4sIEdMb2dMZXZlbEZsYWdzIGxvZ19sZXZlbCwgY29uc3QgZ2NoYXIgKm1lc3NhZ2UsIGdwb2ludGVyIHVzZXJfZGF0YSk7Cg==</text>
+        <text encoding="base64">dm9pZCBzZXRfdmVyYm9zZShndWludCB2ZXJib3NpdHkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZy5oPgo=</text>
+        <text encoding="base64">dm9pZCBub19sb2coY29uc3QgZ2NoYXIgKmxvZ19kb21haW4sIEdMb2dMZXZlbEZsYWdzIGxvZ19sZXZlbCwgY29uc3QgZ2NoYXIgKm1lc3NhZ2UsIGdwb2ludGVyIHVzZXJfZGF0YSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPHN0ZGlvLmg+Cg==</text>
+        <text encoding="base64">I2luY2x1ZGUgPHN0cmluZy5oPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>exit</last-search>
+      <last-search encoding="base64">XDxteXNxbF9mZXRjaMucX3Jvd1w+</last-search>
       <last-offset />
-      <last-pattern>exit</last-pattern>
+      <last-pattern encoding="base64">XDxteXNxbF9mZXRjaMucX3Jvd1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>-D</entry>
-        <entry encoding="base64">XDxnX21lc3NhZ2VcPg==</entry>
-        <entry>1111</entry>
-        <entry encoding="base64">XDxXSVRIX1NTTFw+</entry>
-        <entry>glib</entry>
-        <entry>lib</entry>
-        <entry>ins</entry>
-        <entry>for</entry>
         <entry>glit</entry>
         <entry>-L</entry>
         <entry encoding="base64">XDxHX09QVElPTl9BUkdfRklMRU5BTUVcPg==</entry>
@@ -280,6 +272,14 @@
         <entry encoding="base64">XDxoYXZlX3NuYXBzaG90X2Nsb25pbmdcPg==</entry>
         <entry encoding="base64">XDxub19sb2dcPg==</entry>
         <entry>exit</entry>
+        <entry encoding="base64">XDxtYXN0ZXLLnGxvZ1w+</entry>
+        <entry encoding="base64">XDzLnG1hc3RlcnBvc1w+</entry>
+        <entry encoding="base64">XDxtYXPLnHRlcnBvc1w+</entry>
+        <entry encoding="base64">XDxtYXN0y5xlcnBvc1w+</entry>
+        <entry encoding="base64">XDxtYXN0ZXLLnGd0aWRcPg==</entry>
+        <entry encoding="base64">XDxtYXN0ZXJndGnLnGRcPg==</entry>
+        <entry>˜</entry>
+        <entry encoding="base64">XDxteXNxbF9mZXRjaMucX3Jvd1w+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
