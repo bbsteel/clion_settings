@@ -55,8 +55,8 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.h" timestamp="1541946144373">
-        <mark key="[" line="85" column="4" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.h" timestamp="1541946461594">
+        <mark key="[" line="85" column="5" />
         <mark key="]" line="85" column="4" />
         <mark key="." line="85" column="4" />
         <mark key="^" line="85" column="4" />
@@ -221,7 +221,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxndWludDY0XD4=</text>
+        <text encoding="base64">XDxkYXRhYmFzy5xlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I2luY2x1ZGUgPHVuaXN0ZC5oPgo=</text>
@@ -258,16 +258,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxndWludDY0XD4=</last-search>
+      <last-search encoding="base64">XDxkYXRhYmFzy5xlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxndWludDY0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhYmFzy5xlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHX09QVElPTl9BUkdfRklMRU5BTUVcPg==</entry>
-        <entry encoding="base64">XDx3cml0ZV9sb2dfZmlsZVw+</entry>
         <entry encoding="base64">XDxsb2dvdXRmaWxlXD4=</entry>
         <entry encoding="base64">XDxsb2dmaWxlXD4=</entry>
         <entry>log</entry>
@@ -286,6 +284,8 @@
         <entry encoding="base64">XDxteXNxbF9mZXRjaMucX3Jvd1w+</entry>
         <entry encoding="base64">XDxteXPLnHFsX2ZldGNoX2ZpZWxkc1w+</entry>
         <entry encoding="base64">XDxndWludDY0XD4=</entry>
+        <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
+        <entry encoding="base64">XDxkYXRhYmFzy5xlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
