@@ -32,6 +32,7 @@
     <mouse-shortcut keystroke="control alt button1" />
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="GotoLine" />
   <action id="HippieBackwardCompletion">
     <keyboard-shortcut first-keystroke="shift alt slash" />
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -43,6 +44,10 @@
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="Print" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="shift ctrl i" />
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="shift meta r" />
