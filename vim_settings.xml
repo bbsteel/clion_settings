@@ -64,12 +64,12 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542016610710">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542020191283">
         <mark key="'" line="1720" column="23" />
-        <mark key="[" line="1798" column="38" />
-        <mark key="]" line="1798" column="51" />
-        <mark key="." line="1798" column="51" />
-        <mark key="^" line="1798" column="51" />
+        <mark key="[" line="1763" column="34" />
+        <mark key="]" line="1763" column="50" />
+        <mark key="." line="1763" column="50" />
+        <mark key="^" line="1763" column="50" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -228,10 +228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rows_per_file</text>
+        <text>strtoll</text>
       </register>
       <register name="-" type="4">
-        <text>rows_per_file</text>
+        <text>strtoll</text>
       </register>
       <register name="/" type="4">
         <text>chunk</text>
