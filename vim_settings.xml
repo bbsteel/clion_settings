@@ -64,7 +64,7 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1541986874407">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1541988882498">
         <mark key="'" line="153" column="72" />
         <mark key="[" line="2806" column="0" />
         <mark key="]" line="2806" column="0" />
@@ -104,6 +104,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="18" column="33" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.cpp" timestamp="1541989171460" />
       <file name="/code/projects/mysql-server/libevent/event_rpcgen.py" timestamp="1503113934784">
         <mark key="'" line="51" column="0" />
       </file>
@@ -145,6 +146,9 @@
         <mark key="]" line="42" column="69" />
         <mark key="." line="42" column="69" />
         <mark key="^" line="42" column="69" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1541989186877">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/config.h" timestamp="1539047174754">
         <mark key="[" line="3" column="22" />
@@ -348,7 +352,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed 2</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
