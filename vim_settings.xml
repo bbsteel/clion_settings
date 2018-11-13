@@ -64,12 +64,12 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542079951828">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542081130845">
         <mark key="'" line="1720" column="23" />
-        <mark key="[" line="1808" column="19" />
-        <mark key="]" line="1808" column="19" />
-        <mark key="." line="1808" column="20" />
-        <mark key="^" line="1807" column="35" />
+        <mark key="[" line="1793" column="12" />
+        <mark key="]" line="1791" column="0" />
+        <mark key="." line="1791" column="0" />
+        <mark key="^" line="1791" column="0" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
