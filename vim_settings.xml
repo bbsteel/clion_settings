@@ -64,7 +64,7 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542034722097">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542079951828">
         <mark key="'" line="1720" column="23" />
         <mark key="[" line="1808" column="19" />
         <mark key="]" line="1808" column="19" />
@@ -234,7 +234,7 @@
         <text>strtoll</text>
       </register>
       <register name="/" type="4">
-        <text>chunk</text>
+        <text encoding="base64">XDxzaG93ZWRfbnVsbHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJZGJ0LT5hdmdfcm93X2xlbmd0aCA9IGdfYXNjaWlfc3RydG91bGwocm93W2NfaV9hdmdfcm93X2xlbmd0aF0sIE5VTEwsIDEwKTsK</text>
@@ -271,15 +271,14 @@
       </register>
     </registers>
     <search>
-      <last-search>chunk</last-search>
+      <last-search encoding="base64">XDxzaG93ZWRfbnVsbHNcPg==</last-search>
       <last-offset />
-      <last-pattern>chunk</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93ZWRfbnVsbHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logfile</entry>
         <entry encoding="base64">XDxlcnJub1w+</entry>
         <entry encoding="base64">XDxoYXZlX3NuYXBzaG90X2Nsb25pbmdcPg==</entry>
         <entry encoding="base64">XDxub19sb2dcPg==</entry>
@@ -299,6 +298,7 @@
         <entry>rows</entry>
         <entry encoding="base64">XDxkdW1wX25vbmlubm9kYl90YWJsZXNcPg==</entry>
         <entry>chunk</entry>
+        <entry encoding="base64">XDxzaG93ZWRfbnVsbHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
