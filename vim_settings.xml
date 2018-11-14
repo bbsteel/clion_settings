@@ -64,14 +64,14 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542187363624">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542189428588">
         <mark key="'" line="2787" column="28" />
-        <mark key="[" line="1832" column="0" />
-        <mark key="]" line="1832" column="0" />
-        <mark key="." line="1832" column="0" />
-        <mark key="^" line="1831" column="32" />
+        <mark key="[" line="1822" column="31" />
+        <mark key="]" line="1822" column="31" />
+        <mark key="." line="1822" column="31" />
+        <mark key="^" line="1822" column="38" />
       </file>
-      <file name="/opt/local/lib/glib-2.0/include/glibconfig.h" timestamp="1542187468246" />
+      <file name="/opt/local/lib/glib-2.0/include/glibconfig.h" timestamp="1542189340267" />
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
         <mark key="[" line="224" column="32" />
@@ -225,11 +225,11 @@
       <jump line="2781" column="28" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZ193YXJuaW5nKCJ2YXJfc3RyaW5nLCAlcyIsIHRhYmxlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>(unsigned long long)</text>
       </register>
       <register name="-" type="4">
-        <text>, table</text>
+        <text>(unsigned long long)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93ZWRfbnVsbHNcPg==</text>
