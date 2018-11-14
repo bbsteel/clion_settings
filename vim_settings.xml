@@ -64,12 +64,12 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542202728232">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542203540956">
         <mark key="'" line="1731" column="0" />
-        <mark key="[" line="1728" column="43" />
-        <mark key="]" line="1728" column="43" />
-        <mark key="^" line="1863" column="36" />
-        <mark key="." line="1728" column="43" />
+        <mark key="[" line="1837" column="28" />
+        <mark key="]" line="1837" column="23" />
+        <mark key="." line="1837" column="23" />
+        <mark key="^" line="1837" column="23" />
       </file>
       <file name="/opt/local/lib/glib-2.0/include/glibconfig.h" timestamp="1542189340267" />
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
@@ -229,44 +229,44 @@
       <jump line="1731" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KnRvdGFsPU5VTEwsIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQljYXNlIE1ZU1FMX1RZUEVfVkFSX1NUUklORzoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KnRvdGFsPU5VTEwsIA==</text>
+        <text>can</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxteXNxbF9xdWVyeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJZmlyc3RfY2h1bms/ImAiOiIiLAoJCQkJCQlmaXJzdF9jaHVuaz9maWVsZDoiIiwKCQkJCQkJZmlyc3RfY2h1bms/ImAiOiIiLAoJCQkJCQlmaXJzdF9jaHVuaz8iIElTIE5VTEwgT1IgIjoiIiwK</text>
+        <text encoding="base64">CQljYXNlIE1ZU1FMX1RZUEVfVkFSX1NUUklORzoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNoYXIgKmxhc3RfZW5kcG9pbnQgPSBOVUxMOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlnb3RvIGNsZWFudXA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlteXNxbF9mcmVlX3Jlc3VsdCh0b3RhbCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWlmICh0b3RhbCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJCQkJCSAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJICAgIGNodW5rcyA9IGdfbGlzdF9hcHBlbmQoY2h1bmtzLCBnX3N0cmR1cF9wcmludGYoIihgJXNgID49ICclcycgQU5EIGAlc2AgPCAnJXMnKSIsCgkJCSAgICAJCWZpZWxkLCByb3csCgkJCSAgICAJCWZpZWxkLAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlnb3RvIGNsZWFudXA7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlnb3RvIGNsZWFudXA7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlnX3dhcm5pbmcoIm5vIFBLLCBVSywgb3IgZXZlbiBpbmRleCwgdGFibGUgJXMuJXMgY2FuIG5vdCBiZSBzbGljZWQiLCBkYXRhYmFzZSwgdGFibGUpOwoJCWdvdG8gY2xlYW51cDsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWludCBzaG93ZWRfbnVsbHM9MDsK</text>
+        <text encoding="base64">CQlnemNsb3NlX3coIiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
