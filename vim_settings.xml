@@ -64,13 +64,13 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542262529607">
-        <mark key="a" line="2850" column="0" />
-        <mark key="'" line="2850" column="0" />
-        <mark key="[" line="1870" column="31" />
-        <mark key="]" line="1871" column="16" />
-        <mark key="." line="1871" column="16" />
-        <mark key="^" line="1871" column="16" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542262745553">
+        <mark key="a" line="2847" column="0" />
+        <mark key="'" line="2847" column="0" />
+        <mark key="[" line="1874" column="0" />
+        <mark key="]" line="1874" column="0" />
+        <mark key="^" line="1860" column="51" />
+        <mark key="." line="1874" column="0" />
       </file>
       <file name="/opt/local/lib/glib-2.0/include/glibconfig.h" timestamp="1542189340267" />
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
@@ -258,44 +258,44 @@
       <jump line="2848" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>chunks</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJLy8gZm9yIHRoZSBsYXN0IGNodW5rCg==</text>
       </register>
       <register name="-" type="4">
-        <text>chunks</text>
+        <text>endpoint[0]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaHVua3NcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlmb3IgKGNodW5rcyA9IGdfbGlzdF9maXJzdChjaHVua3MpOyBjaHVua3M7IGNodW5rcz1nX2xpc3RfbmV4dChjaHVua3MpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlbmRwb2ludHMgPSBnX2xpc3RfYXBwZW5kKGVuZHBvaW50cywgZW5kcG9pbnRbMF0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJd2hpbGUgKChyb3c9bXlzcWxfZmV0Y2hfcm93KGVuZHBvaW50cykpKSB7Cg==</text>
+        <text encoding="base64">CQkJLy8gZm9yIHRoZSBsYXN0IGNodW5rCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJaWYgKHByZXZfcm93ICE9IE5VTEwpIHsKCQkJCWNodW5rcyA9IGdfbGlzdF9hcHBlbmQoY2h1bmtzLCBnX3N0cmR1cF9wcmludGYoIihgJXNgID49ICclcycpIiwgZmllbGQsIHByZXZfcm93WzBdKSk7CgkJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZW5kcG9pbnRzPW15c3FsX3N0b3JlX3Jlc3VsdChjb25uKTsK</text>
+        <text encoding="base64">CQkJCQlwcmV2X3JvdyA9IHJvdzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJICAgIAllbmRwb2ludHMuYXBwZW5kKGVuZHBvaW50KQo=</text>
+        <text encoding="base64">CQkJCQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQkJCQlpZiAocHJldl9yb3cgIT0gTlVMTCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJTVlTUUxfUkVTIGVuZHBvaW50X3JlcyA9IE5VTEw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmICggZW5kcG9pbnRzICkgewoJICAgIG15c3FsX2ZyZWVfcmVzdWx0KGVuZHBvaW50cyk7Cg==</text>
+        <text encoding="base64">CQkJZW5kcG9pbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZW5kcG9pbnRzPW15c3FsX3N0b3JlX3Jlc3VsdChjb25uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyAsIHJlY3Vyc2x5IGZldGNoIGVuZHBvaW50IGFuZCBhZGQgaXQgdG8gbGlzdDsK</text>
+        <text encoding="base64">CQkJICAgIGNodW5rX3N0YXJ0ID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
