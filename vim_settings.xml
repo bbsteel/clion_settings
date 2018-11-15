@@ -64,13 +64,13 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542262745553">
-        <mark key="a" line="2847" column="0" />
-        <mark key="'" line="2847" column="0" />
-        <mark key="[" line="1874" column="0" />
-        <mark key="]" line="1874" column="0" />
-        <mark key="^" line="1860" column="51" />
-        <mark key="." line="1874" column="0" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542264034940">
+        <mark key="a" line="2857" column="0" />
+        <mark key="'" line="2857" column="0" />
+        <mark key="[" line="1863" column="0" />
+        <mark key="]" line="1820" column="26" />
+        <mark key="^" line="1820" column="26" />
+        <mark key="." line="1820" column="26" />
       </file>
       <file name="/opt/local/lib/glib-2.0/include/glibconfig.h" timestamp="1542189340267" />
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
