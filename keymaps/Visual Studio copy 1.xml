@@ -5,8 +5,19 @@
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
@@ -41,7 +52,11 @@
     <keyboard-shortcut first-keystroke="alt slash" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="InsertLiveTemplate" />
   <action id="NextTab" />
+  <action id="Pause">
+    <keyboard-shortcut first-keystroke="ctrl pause" />
+  </action>
   <action id="PreviousTab" />
   <action id="Print" />
   <action id="QuickImplementations">
@@ -51,5 +66,8 @@
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
 </keymap>
