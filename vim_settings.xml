@@ -63,16 +63,16 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542457085230">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542457460623">
         <mark key="a" line="2855" column="0" />
         <mark key="q" line="1728" column="4" />
         <mark key="'" line="1729" column="15" />
         <mark key="g" line="2896" column="8" />
-        <mark key="[" line="2898" column="13" />
+        <mark key="[" line="2903" column="15" />
         <mark key="m" line="2849" column="29" />
-        <mark key="]" line="2898" column="25" />
-        <mark key="." line="2898" column="25" />
-        <mark key="^" line="2898" column="25" />
+        <mark key="]" line="2903" column="29" />
+        <mark key="." line="2903" column="29" />
+        <mark key="^" line="2903" column="29" />
       </file>
       <file name="/opt/local/lib/glib-2.0/include/glibconfig.h" timestamp="1542189340267" />
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
@@ -260,10 +260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0UL;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0UL;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaHVua3NcPg==</text>
