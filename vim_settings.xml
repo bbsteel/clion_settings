@@ -63,16 +63,16 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542461008625">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542559303533">
         <mark key="a" line="2854" column="0" />
         <mark key="q" line="1728" column="4" />
         <mark key="'" line="2898" column="15" />
         <mark key="g" line="2895" column="8" />
-        <mark key="[" line="2845" column="0" />
+        <mark key="[" line="3153" column="32" />
         <mark key="m" line="2848" column="29" />
-        <mark key="]" line="2845" column="0" />
-        <mark key="." line="2845" column="0" />
-        <mark key="^" line="2932" column="25" />
+        <mark key="]" line="3153" column="68" />
+        <mark key="." line="3153" column="68" />
+        <mark key="^" line="3153" column="68" />
       </file>
       <file name="/opt/local/lib/glib-2.0/include/glibconfig.h" timestamp="1542189340267" />
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
@@ -94,7 +94,7 @@
       <file name="/GDB" timestamp="1542290672666">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542557820705">
+      <file name="/Dummy.txt" timestamp="1542558152052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
