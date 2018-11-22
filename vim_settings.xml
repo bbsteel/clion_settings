@@ -66,15 +66,15 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542891818854">
-        <mark key="a" line="2878" column="0" />
-        <mark key="q" line="1747" column="4" />
-        <mark key="'" line="3013" column="8" />
-        <mark key="g" line="2919" column="8" />
-        <mark key="[" line="566" column="48" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542893240630">
+        <mark key="a" line="2877" column="0" />
+        <mark key="q" line="1746" column="4" />
+        <mark key="'" line="3012" column="8" />
+        <mark key="g" line="2918" column="8" />
+        <mark key="[" line="570" column="0" />
         <mark key="m" line="562" column="16" />
-        <mark key="]" line="566" column="41" />
-        <mark key="." line="566" column="41" />
+        <mark key="]" line="570" column="0" />
+        <mark key="." line="570" column="0" />
         <mark key="^" line="566" column="41" />
         <mark key="n" line="562" column="16" />
       </file>
@@ -262,7 +262,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCSAgICAJZ19hc3luY19xdWV1ZV9wdXNoX2Zyb250KGNvbmYtPnF1ZXVlLCBqb2IpOwo=</text>
+        <text encoding="base64">CQkJCQkJZ19mcmVlKGpvYik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHF1ZXVl</text>
@@ -274,31 +274,31 @@
         <text encoding="base64">CQkJCSAgICAJZ19hc3luY19xdWV1ZV9wdXNoX2Zyb250KGNvbmYtPnF1ZXVlLCBqb2IpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogcmV0dXJuIHZhbHVlOgogKiAJPiAwOiBkdW1wIHJvdyBudW1iZXJzCiAqIAk9IDA6IGVtcHR5IHRhYmxlCiAqIAk8IDAoLTEpOiBkdW1wIGVycm9yCg==</text>
+        <text encoding="base64">CQkJCQkJZ19mcmVlKGpvYik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJYnJlYWs7Cg==</text>
+        <text encoding="base64">ICogcmV0dXJuIHZhbHVlOgogKiAJPiAwOiBkdW1wIHJvdyBudW1iZXJzCiAqIAk9IDA6IGVtcHR5IHRhYmxlCiAqIAk8IDAoLTEpOiBkdW1wIGVycm9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCSAgICAJCg==</text>
+        <text encoding="base64">CQkJCQkJYnJlYWs7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJYnJlYWs7CgkJCQkgICAgCQo=</text>
+        <text encoding="base64">CQkJCSAgICAJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCSAgICAJYnJlYWs7Cg==</text>
+        <text encoding="base64">CQkJCQkJYnJlYWs7CgkJCQkgICAgCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">CQkJCSAgICAJYnJlYWs7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWdpbnQgZHVtcAo=</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWd1aW50IGR1bXBfZXJyb3IgPSAwOwo=</text>
+        <text encoding="base64">CWdpbnQgZHVtcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWd1aW50IGR1bXBfZXJyb3IgPSAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
