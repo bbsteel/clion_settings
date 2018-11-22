@@ -32,8 +32,11 @@
       <file name="$USER_HOME$/CLionProjects/mydumper/connection.h" timestamp="1540904586884">
         <mark key="'" line="18" column="5" />
       </file>
-      <file name="/fragment.m" timestamp="1542880181604">
+      <file name="/fragment.m" timestamp="1542880706128">
+        <mark key="'" line="0" column="3" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/code/projects/mydumper/.gitignore" timestamp="1524663598695">
         <mark key="[" line="123" column="0" />
@@ -63,16 +66,16 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542880171999">
-        <mark key="a" line="2863" column="0" />
-        <mark key="q" line="1737" column="4" />
-        <mark key="'" line="3045" column="4" />
-        <mark key="g" line="2904" column="8" />
-        <mark key="[" line="3009" column="0" />
-        <mark key="m" line="2857" column="29" />
-        <mark key="]" line="3009" column="0" />
-        <mark key="^" line="3040" column="59" />
-        <mark key="." line="3009" column="0" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542881514871">
+        <mark key="a" line="2875" column="0" />
+        <mark key="q" line="1744" column="4" />
+        <mark key="'" line="547" column="44" />
+        <mark key="g" line="2916" column="8" />
+        <mark key="[" line="572" column="0" />
+        <mark key="m" line="2869" column="29" />
+        <mark key="]" line="572" column="0" />
+        <mark key="." line="572" column="0" />
+        <mark key="^" line="565" column="58" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -93,7 +96,7 @@
       <file name="/GDB" timestamp="1542290672666">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542880181628">
+      <file name="/Dummy.txt" timestamp="1542880695772">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -155,14 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1599" column="93" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="1890" column="12" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="1894" column="27" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="2242" column="93" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="2402" column="93" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="2475" column="93" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="2554" column="80" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="35" column="10" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="241" column="62" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="89" column="10" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
@@ -255,61 +250,68 @@
       <jump line="2930" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="3250" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="3030" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="0" column="3" filename="/fragment.m" />
+      <jump line="3002" column="129" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="1351" column="23" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="504" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="449" column="36" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="455" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="520" column="23" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="547" column="44" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWd1aW50IGR1bXBfZXJyb3IgPSAwOwo=</text>
+        <text encoding="base64">CQkJCQkJYnJlYWs7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JXMg</text>
+        <text>job</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdmdfcm93X2xlbmd0aFw+</text>
+        <text>conf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsgImF1dG8tc2xpY2UiLCAwLCAwLCBHX09QVElPTl9BUkdfTk9ORSwgJmF1dG9fc2xpY2UsICJBdXRvIHNsaWNlIHRhYmxlLCB0dXJucyBvZiAtLXJvd3MiLCBOVUxMfSwK</text>
+        <text encoding="base64">CQkJCWdfbWVzc2FnZSgiVGhyZWFkICVkIHNodXR0aW5nIGRvd24iLCB0ZC0+dGhyZWFkX2lkKTsKCQkJCWlmICh0aHJjb25uKQoJCQkJCW15c3FsX2Nsb3NlKHRocmNvbm4pOwoJCQkJZ19mcmVlKGpvYik7CgkJCQlteXNxbF90aHJlYWRfZW5kKCk7CgkJCQlyZXR1cm4gTlVMTDsKCQkJCWJyZWFrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWd1aW50IGR1bXBfZXJyb3IgPSAwOwo=</text>
+        <text encoding="base64">CQkJCQkJYnJlYWs7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyB0b2RvOiBlcnJvciBpZ25vcmFuY2UgYW5kIHB1dCB1bmZpbmlzaGVkIGpvYiBiYWNrIHRvIHF1ZXVlCg==</text>
+        <text encoding="base64">CQkJCSAgICAJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyBpZiByZXRyeV9mZXRjaAoJCS8vICAgIGRlbGV0ZSBhbHJlYWR5IGZldGNoIGRhdGEgaW4gZmlsZQoJCS8vICAgIHB1dCB0aGlzIGludGVycnVwdCBqb2IgdG8gYW5vdGhlciBxdWV1ZQo=</text>
+        <text encoding="base64">CQkJCQkJYnJlYWs7CgkJCQkgICAgCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCSAgICAJYnJlYWs7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CWdpbnQgZHVtcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWd1aW50IGR1bXBfZXJyb3IgPSAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQllcnJvcnMrKzsK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CWlmICggZHVtcF9lcnJvciApIHsKCX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdmdfcm93X2xlbmd0aFw+</last-search>
+      <last-search>conf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdmdfcm93X2xlbmd0aFw+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>conf</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXN0ZXJndGnLnGRcPg==</entry>
         <entry>˜</entry>
         <entry encoding="base64">XDxteXNxbF9mZXRjaMucX3Jvd1w+</entry>
         <entry encoding="base64">XDxteXPLnHFsX2ZldGNoX2ZpZWxkc1w+</entry>
@@ -329,6 +331,7 @@
         <entry encoding="base64">XDxjaHVua3NcPg==</entry>
         <entry>50</entry>
         <entry encoding="base64">XDxhdmdfcm93X2xlbmd0aFw+</entry>
+        <entry>conf</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
