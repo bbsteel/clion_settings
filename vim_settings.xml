@@ -66,16 +66,16 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542881514871">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542887441713">
         <mark key="a" line="2875" column="0" />
         <mark key="q" line="1744" column="4" />
-        <mark key="'" line="547" column="44" />
+        <mark key="'" line="3014" column="8" />
         <mark key="g" line="2916" column="8" />
-        <mark key="[" line="572" column="0" />
+        <mark key="[" line="3188" column="12" />
         <mark key="m" line="2869" column="29" />
-        <mark key="]" line="572" column="0" />
-        <mark key="." line="572" column="0" />
-        <mark key="^" line="565" column="58" />
+        <mark key="]" line="3188" column="21" />
+        <mark key="." line="3188" column="21" />
+        <mark key="^" line="3188" column="21" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -158,7 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="241" column="62" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="89" column="10" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
       <jump line="1300" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
@@ -258,13 +257,14 @@
       <jump line="455" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="520" column="23" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="547" column="44" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="3014" column="8" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJYnJlYWs7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>g_message</text>
       </register>
       <register name="-" type="4">
-        <text>job</text>
+        <text>g_message</text>
       </register>
       <register name="/" type="4">
         <text>conf</text>
