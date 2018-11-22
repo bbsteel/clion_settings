@@ -63,16 +63,16 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542791818767">
-        <mark key="a" line="2854" column="0" />
-        <mark key="q" line="1728" column="4" />
-        <mark key="'" line="3251" column="0" />
-        <mark key="g" line="2895" column="8" />
-        <mark key="[" line="2924" column="0" />
-        <mark key="m" line="2848" column="29" />
-        <mark key="]" line="2924" column="20" />
-        <mark key="." line="2924" column="0" />
-        <mark key="^" line="2924" column="12" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542859055179">
+        <mark key="a" line="2863" column="0" />
+        <mark key="q" line="1737" column="4" />
+        <mark key="'" line="3039" column="4" />
+        <mark key="g" line="2904" column="8" />
+        <mark key="[" line="3170" column="0" />
+        <mark key="m" line="2857" column="29" />
+        <mark key="]" line="3170" column="0" />
+        <mark key="^" line="3173" column="4" />
+        <mark key="." line="3170" column="0" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -155,7 +155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1160" column="69" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1599" column="93" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1890" column="12" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1894" column="27" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
@@ -255,46 +254,47 @@
       <jump line="2898" column="12" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2930" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="3250" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="3030" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGd1aW50IGkgPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text encoding="base64">JXMg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdmdfcm93X2xlbmd0aFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWd1aW50NjQgdG90YWxfcm93X2xlbmd0aCA9IDBVTDsK</text>
+        <text encoding="base64">ICAgIHsgImF1dG8tc2xpY2UiLCAwLCAwLCBHX09QVElPTl9BUkdfTk9ORSwgJmF1dG9fc2xpY2UsICJBdXRvIHNsaWNlIHRhYmxlLCB0dXJucyBvZiAtLXJvd3MiLCBOVUxMfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGd1aW50IGkgPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvLyBhdmcgcm93IGxlbmd0aCBpcyB1c3VhbGx5IGJpZ2dlciB0aGFuIGFjdHVhbCBzaXplLiBhZGp1c3Qgcm93cyBwZXIgc2xpY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CU1ZU1FMX1JPVyByb3cgPSBOVUxMOwoJZ3VpbnQ2NCBhdmdfcm93X2xlbmd0aCA9IDBVTDsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CQllcnJvcnMrKzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICggICkgewo=</text>
+        <text encoding="base64">CQlnX2NyaXRpY2FsKCJDb3VsZCBub3QgcmVhZCBkYXRhIGZyb20gJXMuJXM6ICVzIiwgZGF0YWJhc2UsIHRhYmxlLCBteXNxbF9lcnJvcihjb25uKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGd1aW50IGkgPSAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkvLyBhdmcgcm93IGxlbmd0aCBpcyB1c3VhbGx5IGJpZ2dlciB0aGFuIGFjdHVhbCBzaXplLiBhZGp1c3Qgcm93cyBwZXIgc2xpY2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
