@@ -66,16 +66,17 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1542896112530">
-        <mark key="a" line="2876" column="0" />
-        <mark key="q" line="1745" column="4" />
-        <mark key="'" line="508" column="50" />
-        <mark key="g" line="2917" column="8" />
-        <mark key="[" line="566" column="0" />
-        <mark key="m" line="562" column="16" />
-        <mark key="]" line="566" column="0" />
-        <mark key="." line="566" column="0" />
-        <mark key="n" line="562" column="16" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1543024393956">
+        <mark key="a" line="2879" column="0" />
+        <mark key="q" line="1748" column="4" />
+        <mark key="'" line="510" column="50" />
+        <mark key="g" line="2920" column="8" />
+        <mark key="[" line="141" column="12" />
+        <mark key="m" line="564" column="16" />
+        <mark key="]" line="141" column="30" />
+        <mark key="." line="141" column="30" />
+        <mark key="n" line="564" column="16" />
+        <mark key="^" line="141" column="34" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
