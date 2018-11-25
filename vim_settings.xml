@@ -58,25 +58,23 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.h" timestamp="1542450258386">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.h" timestamp="1543064522678">
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="16" />
+        <mark key="." line="33" column="16" />
+        <mark key="^" line="33" column="16" />
       </file>
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1543063754221">
-        <mark key="a" line="2884" column="0" />
-        <mark key="q" line="1753" column="4" />
-        <mark key="'" line="1174" column="25" />
-        <mark key="g" line="2925" column="8" />
-        <mark key="[" line="1609" column="16" />
-        <mark key="m" line="565" column="16" />
-        <mark key="]" line="1609" column="16" />
-        <mark key="n" line="565" column="16" />
-        <mark key="." line="1609" column="19" />
-        <mark key="^" line="1434" column="70" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1543066827908">
+        <mark key="a" line="2910" column="0" />
+        <mark key="q" line="1779" column="4" />
+        <mark key="g" line="2951" column="8" />
+        <mark key="[" line="1464" column="5" />
+        <mark key="]" line="1465" column="0" />
+        <mark key="^" line="1465" column="0" />
+        <mark key="." line="1465" column="0" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -159,8 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="97" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
-      <jump line="126" column="27" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
       <jump line="77" column="45" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
       <jump line="40" column="12" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
       <jump line="43" column="0" filename="$USER_HOME$/CLionProjects/mydumper/logger.c" />
@@ -259,61 +255,64 @@
       <jump line="90" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="3295" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1170" column="25" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="452" column="36" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="523" column="23" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>num_threads</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlmb3IgKG49MDsgbjwgKGd1aW50KW51bV90aHJlYWRzL1RIUkVBRF9QT09MX0ZBQ1RPUjsgbisrKSB7CgkJCWdfYXN5bmNfcXVldWVfcHVzaChjb25mLnNlbWFwaG9yZSwgR0lOVF9UT19QT0lOVEVSKDEpKTsKCQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>num_threads</text>
+        <text>queue</text>
       </register>
       <register name="/" type="4">
-        <text>-W</text>
+        <text encoding="base64">XDxjb25mXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCSAgICAJZ19hc3luY19xdWV1ZV9wdXNoX2Zyb250KGNvbmYtPnF1ZXVlLCBqb2IpOwo=</text>
+        <text encoding="base64">CWlmIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5xdWV1ZSkpIHsKCQlnX2FzeW5jX3F1ZXVlX3BvcChjb25mLnF1ZXVlKTsKCX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CQlmb3IgKG49MDsgbjwgKGd1aW50KW51bV90aHJlYWRzL1RIUkVBRF9QT09MX0ZBQ1RPUjsgbisrKSB7CgkJCWdfYXN5bmNfcXVldWVfcHVzaChjb25mLnNlbWFwaG9yZSwgR0lOVF9UT19QT0lOVEVSKDEpKTsKCQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0KCQo=</text>
+        <text encoding="base64">CWlmIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5xdWV1ZSkpIHsKCQlnX2FzeW5jX3F1ZXVlX3BvcChjb25mLnF1ZXVlKTsKCX0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlpZiAoICFhdXRvX3NsaWNlICkgewoJCQlyZXRyeV9mZXRjaCA9IDA7CgkJCWdfbWVzc2FnZSgicmV0cnktZmV0Y2ggbXVzdCB1c2VkIHdpdGggYXV0by1zbGljZSBmZWF0dXJlLiIpOwoJCX0K</text>
+      <register name="3" type="4">
+        <text>else {
+		num_threads = num_threads;
+	}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCQkJCQlnX2FzeW5jX3F1ZXVlX3B1c2goY29uZi0+cXVldWUsIGpvYik7Cg==</text>
+        <text encoding="base64">Z3VpbnQgbnVtX3RocmVhZHMgPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJZ19mcmVlKGpvYik7Cg==</text>
+        <text encoding="base64">CQkJCWdfYXN5bmNfcXVldWVfcHVzaF9mcm9udChjb25mLT5xdWV1ZSwgam9iKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogcmV0dXJuIHZhbHVlOgogKiAJPiAwOiBkdW1wIHJvdyBudW1iZXJzCiAqIAk9IDA6IGVtcHR5IHRhYmxlCiAqIAk8IDAoLTEpOiBkdW1wIGVycm9yCg==</text>
+        <text encoding="base64">CWdfYXN5bmNfcXVldWVfcHVzaF9mcm9udChjb25mLT5xdWV1ZSwgam9iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJYnJlYWs7Cg==</text>
+        <text encoding="base64">CQljb25mLnNlbWFwaG9yZSA9IGdfYXN5bmNfcXVldWVfbmV3KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCSAgICAJCg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJYnJlYWs7CgkJCQkgICAgCQo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>-W</last-search>
+      <last-search encoding="base64">XDxjb25mXD4=</last-search>
       <last-offset />
-      <last-pattern>-W</last-pattern>
+      <last-pattern encoding="base64">XDxjb25mXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxteXPLnHFsX2ZldGNoX2ZpZWxkc1w+</entry>
         <entry encoding="base64">XDxndWludDY0XD4=</entry>
         <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
         <entry encoding="base64">XDxkYXRhYmFzy5xlXD4=</entry>
@@ -333,6 +332,7 @@
         <entry>conf</entry>
         <entry>W</entry>
         <entry>-W</entry>
+        <entry encoding="base64">XDxjb25mXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
