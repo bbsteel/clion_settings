@@ -67,15 +67,15 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1543116157200">
-        <mark key="a" line="2914" column="0" />
-        <mark key="q" line="1780" column="4" />
-        <mark key="g" line="2955" column="8" />
-        <mark key="'" line="3049" column="119" />
-        <mark key="[" line="577" column="0" />
-        <mark key="]" line="578" column="52" />
-        <mark key="^" line="578" column="52" />
-        <mark key="." line="578" column="52" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1543146804260">
+        <mark key="a" line="2915" column="0" />
+        <mark key="q" line="1781" column="4" />
+        <mark key="g" line="2956" column="8" />
+        <mark key="'" line="3050" column="119" />
+        <mark key="[" line="1482" column="28" />
+        <mark key="]" line="1483" column="84" />
+        <mark key="^" line="1482" column="23" />
+        <mark key="." line="1483" column="0" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -96,7 +96,7 @@
       <file name="/GDB" timestamp="1542889880735">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543115949567">
+      <file name="/Dummy.txt" timestamp="1543116397216">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -262,8 +262,8 @@
       <jump line="3045" column="119" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>throw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlteXNxbF9xdWVyeShjb25uLCAiU1RBUlQgVFJBTlNBQ1RJT04gLyohNDAxMDggV0lUSCBDT05TSVNURU5UIFNOQVBTSE9UICovIik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>throw</text>
@@ -272,7 +272,7 @@
         <text encoding="base64">XDxkdW1wX3Jlc3VsdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWlmIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5xdWV1ZSkpIHsKCQlnX2FzeW5jX3F1ZXVlX3BvcChjb25mLnF1ZXVlKTsKCX0K</text>
+        <text encoding="base64">CQlteXNxbF9xdWVyeShjb25uLCAiU1RBUlQgVFJBTlNBQ1RJT04gLyohNDAxMDggV0lUSCBDT05TSVNURU5UIFNOQVBTSE9UICovIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlkdW1wX3Jlc3VsdCA9IDE7Cg==</text>
