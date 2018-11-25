@@ -67,14 +67,14 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1543146804260">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1543147730324">
         <mark key="a" line="2915" column="0" />
         <mark key="q" line="1781" column="4" />
         <mark key="g" line="2956" column="8" />
         <mark key="'" line="3050" column="119" />
-        <mark key="[" line="1482" column="28" />
-        <mark key="]" line="1483" column="84" />
-        <mark key="^" line="1482" column="23" />
+        <mark key="[" line="1483" column="0" />
+        <mark key="]" line="1483" column="0" />
+        <mark key="^" line="1483" column="31" />
         <mark key="." line="1483" column="0" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
@@ -96,7 +96,7 @@
       <file name="/GDB" timestamp="1542889880735">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543116397216">
+      <file name="/Dummy.txt" timestamp="1543147731417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -263,7 +263,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlteXNxbF9xdWVyeShjb25uLCAiU1RBUlQgVFJBTlNBQ1RJT04gLyohNDAxMDggV0lUSCBDT05TSVNURU5UIFNOQVBTSE9UICovIik7Cg==</text>
+        <text encoding="base64">CSAgICAvLyB3aGVuIGxvY2sgYWxsIHRhYmxlcyAK</text>
       </register>
       <register name="-" type="4">
         <text>throw</text>
@@ -275,33 +275,33 @@
         <text encoding="base64">CQlteXNxbF9xdWVyeShjb25uLCAiU1RBUlQgVFJBTlNBQ1RJT04gLyohNDAxMDggV0lUSCBDT05TSVNURU5UIFNOQVBTSE9UICovIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlkdW1wX3Jlc3VsdCA9IDE7Cg==</text>
+        <text encoding="base64">CSAgICAvLyB3aGVuIGxvY2sgYWxsIHRhYmxlcyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmb3IgKG49MDsgbjwgKGd1aW50KW51bV90aHJlYWRzL1RIUkVBRF9QT09MX0ZBQ1RPUjsgbisrKSB7CgkJCWdfYXN5bmNfcXVldWVfcHVzaChjb25mLnNlbWFwaG9yZSwgR0lOVF9UT19QT0lOVEVSKDEpKTsKCQl9Cg==</text>
+        <text encoding="base64">CQlkdW1wX3Jlc3VsdCA9IDE7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CQlmb3IgKG49MDsgbjwgKGd1aW50KW51bV90aHJlYWRzL1RIUkVBRF9QT09MX0ZBQ1RPUjsgbisrKSB7CgkJCWdfYXN5bmNfcXVldWVfcHVzaChjb25mLnNlbWFwaG9yZSwgR0lOVF9UT19QT0lOVEVSKDEpKTsKCQl9Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CWlmIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5xdWV1ZSkpIHsKCQlnX2FzeW5jX3F1ZXVlX3BvcChjb25mLnF1ZXVlKTsKCX0K</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>else {
 		num_threads = num_threads;
 	}</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Z3VpbnQgbnVtX3RocmVhZHMgPSAwOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCWdfYXN5bmNfcXVldWVfcHVzaF9mcm9udChjb25mLT5xdWV1ZSwgam9iKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CWdfYXN5bmNfcXVldWVfcHVzaF9mcm9udChjb25mLT5xdWV1ZSwgam9iKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQljb25mLnNlbWFwaG9yZSA9IGdfYXN5bmNfcXVldWVfbmV3KCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQljb25mLnNlbWFwaG9yZSA9IGdfYXN5bmNfcXVldWVfbmV3KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
