@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="drop test db" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="mysql" />
+      <option name="PARAMETERS" value="-uroot -pHuawei@123 -e &quot;drop database drs;drop database sysbench&quot;" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
 </toolSet>
