@@ -67,15 +67,15 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1543243306044">
-        <mark key="a" line="2916" column="0" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1543244571585">
+        <mark key="a" line="2911" column="0" />
         <mark key="q" line="1781" column="4" />
-        <mark key="g" line="2957" column="8" />
+        <mark key="g" line="2952" column="8" />
         <mark key="'" line="341" column="4" />
-        <mark key="[" line="2402" column="13" />
-        <mark key="]" line="2402" column="17" />
-        <mark key="." line="2402" column="17" />
-        <mark key="^" line="2402" column="17" />
+        <mark key="[" line="2427" column="48" />
+        <mark key="]" line="2427" column="52" />
+        <mark key="^" line="2427" column="52" />
+        <mark key="." line="2427" column="52" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -93,7 +93,7 @@
       <file name="/code/projects/mydumper/connection.h" timestamp="1528640462569">
         <mark key="'" line="18" column="17" />
       </file>
-      <file name="/GDB" timestamp="1543242978620">
+      <file name="/GDB" timestamp="1543244478253">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1543147731417">
@@ -262,46 +262,44 @@
       <jump line="493" column="26" filename="$USER_HOME$/CLionProjects/mydumper/myloader.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUdTdHJpbmcqIHN0YXRlbWVudCA9IGdfc3RyaW5nX3NpemVkX25ldyhzdGF0ZW1lbnRfc2l6ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>statement</text>
       </register>
       <register name="-" type="4">
-        <text>throw</text>
+        <text>statement</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhYmFzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUdTdHJpbmcqIHN0YXRlbWVudCA9IGdfc3RyaW5nX3NpemVkX25ldyhzdGF0ZW1lbnRfc2l6ZSk7Cg==</text>
+        <text encoding="base64">CWdfc3RyaW5nX2ZyZWUoc3RhdGVtZW50LCBUUlVFKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJaWYgKCF3cml0ZV9kYXRhKChGSUxFICopb3V0ZmlsZSxzdGF0ZW1lbnQpKSB7CgkJCQlnX2NyaXRpY2FsKCJDb3VsZCBub3Qgd3JpdGUgc3RvcmVkIHByb2NlZHVyZSBkYXRhIGZvciAlcy4lcyIsIGRhdGFiYXNlLHJvd1sxXSApOwoJCQkJZXJyb3JzKys7CgkJCQlyZXR1cm47CgkJCX0KCQkJZ19zdHJpbmdfc2V0X3NpemUoc3RhdGVtZW50LCAwKTsK</text>
+        <text encoding="base64">CQkJZ19zdHJpbmdfc2V0X3NpemUoc3RhdGVtZW50LCAwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAvLyB3aGVuIGxvY2sgYWxsIHRhYmxlcyAK</text>
+        <text encoding="base64">CQkJaWYgKCF3cml0ZV9kYXRhKChGSUxFICopb3V0ZmlsZSxzdGF0ZW1lbnQpKSB7CgkJCQlnX2NyaXRpY2FsKCJDb3VsZCBub3Qgd3JpdGUgc3RvcmVkIHByb2NlZHVyZSBkYXRhIGZvciAlcy4lcyIsIGRhdGFiYXNlLHJvd1sxXSApOwoJCQkJZXJyb3JzKys7CgkJCQlyZXR1cm47CgkJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlkdW1wX3Jlc3VsdCA9IDE7Cg==</text>
+        <text encoding="base64">CQkJaWYgKCF3cml0ZV9kYXRhKChGSUxFICopb3V0ZmlsZSxzdGF0ZW1lbnQpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmb3IgKG49MDsgbjwgKGd1aW50KW51bV90aHJlYWRzL1RIUkVBRF9QT09MX0ZBQ1RPUjsgbisrKSB7CgkJCWdfYXN5bmNfcXVldWVfcHVzaChjb25mLnNlbWFwaG9yZSwgR0lOVF9UT19QT0lOVEVSKDEpKTsKCQl9Cg==</text>
+        <text encoding="base64">CQkJZ19zdHJpbmdfc2V0X3NpemUoc3RhdGVtZW50LCAwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWlmIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5xdWV1ZSkpIHsKCQlnX2FzeW5jX3F1ZXVlX3BvcChjb25mLnF1ZXVlKTsKCX0K</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>else {
-		num_threads = num_threads;
-	}</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJaWYgKCF3cml0ZV9kYXRhKChGSUxFICopb3V0ZmlsZSxzdGF0ZW1lbnQpKSB7CgkJCQlnX2NyaXRpY2FsKCJDb3VsZCBub3Qgd3JpdGUgZnVuY3Rpb24gZGF0YSBmb3IgJXMuJXMiLCBkYXRhYmFzZSxyb3dbMV0gKTsKCQkJCWVycm9ycysrOwoJCQkJcmV0dXJuOwoJCQl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3VpbnQgbnVtX3RocmVhZHMgPSAwOwo=</text>
+        <text encoding="base64">CQkJaWYgKCF3cml0ZV9kYXRhKChGSUxFICopb3V0ZmlsZSxkcm9wX3N0YXRlbWVudCkpIHsKCQkJCWdfY3JpdGljYWwoIkNvdWxkIG5vdCB3cml0ZSBzdG9yZWQgcHJvY2VkdXJlIGRhdGEgZm9yICVzLiVzIiwgZGF0YWJhc2Uscm93WzFdICk7CgkJCQllcnJvcnMrKzsKCQkJCXJldHVybjsKCQkJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWdfYXN5bmNfcXVldWVfcHVzaF9mcm9udChjb25mLT5xdWV1ZSwgam9iKTsK</text>
+        <text encoding="base64">CQkJaWYgKCF3cml0ZV9kYXRhKChGSUxFICopb3V0ZmlsZSxzdGF0ZW1lbnQpKSB7CgkJCQlnX2NyaXRpY2FsKCJDb3VsZCBub3Qgd3JpdGUgc3RvcmVkIHByb2NlZHVyZSBkYXRhIGZvciAlcy4lcyIsIGRhdGFiYXNlLHJvd1sxXSApOwoJCQkJZXJyb3JzKys7CgkJCQlyZXR1cm47CgkJCX0KCQkJZ19zdHJpbmdfc2V0X3NpemUoc3RhdGVtZW50LCAwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWdfYXN5bmNfcXVldWVfcHVzaF9mcm9udChjb25mLT5xdWV1ZSwgam9iKTsK</text>
+        <text encoding="base64">CSAgICAvLyB3aGVuIGxvY2sgYWxsIHRhYmxlcyAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
