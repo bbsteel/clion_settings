@@ -101,10 +101,10 @@
       <file name="/GDB" timestamp="1543314484687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543310327228">
-        <mark key="[" line="0" column="21" />
-        <mark key="]" line="0" column="76" />
-        <mark key="." line="0" column="76" />
+      <file name="/Dummy.txt" timestamp="1543314867408">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" timestamp="1525961259631">
         <mark key="'" line="70" column="16" />
@@ -268,7 +268,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2hlbiBsb2NrIGFsbCB0YWJsZSBpbiBzb3VyY2UsIHNob3VsZCBzdGFydCB0cmFuc2FjdGlvbiBiZWZvcmUgdW5sb2NrIHRhYmxlcy4K</text>
       </register>
       <register name="-" type="4">
         <text>if</text>
@@ -280,31 +280,31 @@
         <text encoding="base64">CQkJZ19mcmVlKHN0YXRlbWVudF9jaGVjayk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CXdoaWxlIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5zZW1hcGhvcmUpKSB7CgkJZ19hc3luY19xdWV1ZV9wb3AoY29uZi5zZW1hcGhvcmUpOwoJfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXdoaWxlIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5xdWV1ZSkpIHsKCQlnX2FzeW5jX3F1ZXVlX3BvcChjb25mLnF1ZXVlKTsKCX0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJZ19mcmVlKHN0YXRlbWVudF9jaGVjayk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlnX2ZyZWUoc3RhdGVtZW50X2NoZWNrKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWdfZnJlZShzdGF0ZW1lbnRfY2hlY2spOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWlmICggcXVlcnkgKSB7Cgl9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">d2hlbiBsb2NrIGFsbCB0YWJsZSBpbiBzb3VyY2UsIHNob3VsZCBzdGFydCB0cmFuc2FjdGlvbiBiZWZvcmUgdW5sb2NrIHRhYmxlcy4K</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXdoaWxlIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5zZW1hcGhvcmUpKSB7CgkJZ19hc3luY19xdWV1ZV9wb3AoY29uZi5zZW1hcGhvcmUpOwoJfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXdoaWxlIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5xdWV1ZSkpIHsKCQlnX2FzeW5jX3F1ZXVlX3BvcChjb25mLnF1ZXVlKTsKCX0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJZ19mcmVlKHN0YXRlbWVudF9jaGVjayk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlnX2ZyZWUoc3RhdGVtZW50X2NoZWNrKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CWdfZnJlZShzdGF0ZW1lbnRfY2hlY2spOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CWlmICggcXVlcnkgKSB7Cgl9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CWdfc3RyaW5nX2ZyZWUoZHJvcF9zdGF0ZW1lbnQsIFRSVUUpOwo=</text>
+        <text encoding="base64">d2hlbiBsb2NrIGFsbCB0YWJsZSBpbiBzb3VyY2UsIHNob3VsZCBzdGFydCB0cmFuc2FjdGlvbiBiZWZvcmUgdW5sb2NrIHRhYmxlcy4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
