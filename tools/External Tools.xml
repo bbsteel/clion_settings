@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="mysql" />
       <option name="PARAMETERS" value="-uroot -pHuawei@123 -e &quot;drop database drs;drop database sysbench&quot;" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
