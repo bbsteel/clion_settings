@@ -72,15 +72,15 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1543310251110">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1543314569693">
         <mark key="a" line="2893" column="0" />
         <mark key="q" line="1782" column="4" />
         <mark key="g" line="2934" column="8" />
         <mark key="'" line="14" column="4" />
-        <mark key="[" line="2517" column="0" />
-        <mark key="]" line="2517" column="0" />
-        <mark key="^" line="2515" column="57" />
-        <mark key="." line="2517" column="0" />
+        <mark key="[" line="1640" column="0" />
+        <mark key="]" line="1640" column="0" />
+        <mark key="^" line="1644" column="8" />
+        <mark key="." line="1640" column="0" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -98,7 +98,7 @@
       <file name="/code/projects/mydumper/connection.h" timestamp="1528640462569">
         <mark key="'" line="18" column="17" />
       </file>
-      <file name="/GDB" timestamp="1543244478253">
+      <file name="/GDB" timestamp="1543314484687">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1543310327228">
@@ -268,10 +268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJZ19mcmVlKHN0YXRlbWVudF9jaGVjayk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>if</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wX3N0YXRlbWVudFw+</text>
@@ -280,31 +280,31 @@
         <text encoding="base64">CQkJZ19mcmVlKHN0YXRlbWVudF9jaGVjayk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZ19mcmVlKHN0YXRlbWVudF9jaGVjayk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlnX2ZyZWUoc3RhdGVtZW50X2NoZWNrKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CWdfZnJlZShzdGF0ZW1lbnRfY2hlY2spOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWlmICggcXVlcnkgKSB7Cgl9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">d2hlbiBsb2NrIGFsbCB0YWJsZSBpbiBzb3VyY2UsIHNob3VsZCBzdGFydCB0cmFuc2FjdGlvbiBiZWZvcmUgdW5sb2NrIHRhYmxlcy4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CWdfc3RyaW5nX2ZyZWUoZHJvcF9zdGF0ZW1lbnQsIFRSVUUpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CUdTdHJpbmcqIGRyb3Bfc3RhdGVtZW50ID0gZ19zdHJpbmdfc2l6ZWRfbmV3KHN0YXRlbWVudF9zaXplKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CXdoaWxlIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5zZW1hcGhvcmUpKSB7CgkJZ19hc3luY19xdWV1ZV9wb3AoY29uZi5zZW1hcGhvcmUpOwoJfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXdoaWxlIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5xdWV1ZSkpIHsKCQlnX2FzeW5jX3F1ZXVlX3BvcChjb25mLnF1ZXVlKTsKCX0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZ19mcmVlKHN0YXRlbWVudF9jaGVjayk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlnX2ZyZWUoc3RhdGVtZW50X2NoZWNrKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWdfZnJlZShzdGF0ZW1lbnRfY2hlY2spOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CWlmICggcXVlcnkgKSB7Cgl9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">d2hlbiBsb2NrIGFsbCB0YWJsZSBpbiBzb3VyY2UsIHNob3VsZCBzdGFydCB0cmFuc2FjdGlvbiBiZWZvcmUgdW5sb2NrIHRhYmxlcy4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJldHVybjsK</text>
+        <text encoding="base64">CWdfc3RyaW5nX2ZyZWUoZHJvcF9zdGF0ZW1lbnQsIFRSVUUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
