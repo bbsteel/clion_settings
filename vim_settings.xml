@@ -101,8 +101,10 @@
       <file name="/GDB" timestamp="1543244478253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543307758691">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1543310327228">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="0" column="76" />
+        <mark key="." line="0" column="76" />
       </file>
       <file name="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" timestamp="1525961259631">
         <mark key="'" line="70" column="16" />
