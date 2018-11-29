@@ -6,10 +6,11 @@
       <file name="vim_settings.xml" timestamp="1540903057144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1540903807148">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1543494629687">
+        <mark key="[" line="42" column="40" />
+        <mark key="]" line="42" column="41" />
+        <mark key="." line="42" column="41" />
+        <mark key="^" line="47" column="45" />
       </file>
       <file name="/code/projects/mysql-server/.gitignore" timestamp="1503113040871">
         <mark key="[" line="3122" column="0" />
@@ -29,8 +30,13 @@
       <file name="$USER_HOME$/CLionProjects/mydumper/Makefile" timestamp="1538143493250">
         <mark key="'" line="97" column="15" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/connection.h" timestamp="1540904586884">
+      <file name="$USER_HOME$/CLionProjects/mydumper/connection.h" timestamp="1543492027713">
         <mark key="'" line="18" column="5" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cpp" timestamp="1543282784231">
+        <mark key="[" line="0" column="0" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.m" timestamp="1543290597016">
         <mark key="'" line="0" column="3" />
@@ -67,16 +73,11 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cpp" timestamp="1543282784231">
-        <mark key="[" line="0" column="0" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1543326901593">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1543492278710">
         <mark key="a" line="2893" column="0" />
         <mark key="q" line="1782" column="4" />
         <mark key="g" line="2934" column="8" />
-        <mark key="'" line="14" column="4" />
+        <mark key="'" line="1072" column="21" />
         <mark key="[" line="1640" column="0" />
         <mark key="]" line="1640" column="0" />
         <mark key="^" line="1644" column="8" />
@@ -118,7 +119,6 @@
       <file name="/code/projects/mysql-server/libevent/event_rpcgen.py" timestamp="1503113934784">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="/CMakeLists.txt" timestamp="1543115892390" />
       <file name="$USER_HOME$/CLionProjects/mydumper/README.md" timestamp="1543319775924">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="48" column="0" />
@@ -166,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1853" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1810" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1803" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1800" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
@@ -266,46 +265,47 @@
       <jump line="2403" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2518" column="43" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="14" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="1072" column="21" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Lgo=</text>
+      <register name="&quot;" type="4">
+        <text>disable_local_infile</text>
       </register>
       <register name="-" type="4">
-        <text>if</text>
+        <text>disable_local_infile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkcm9wX3N0YXRlbWVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJZ19mcmVlKHN0YXRlbWVudF9jaGVjayk7Cg==</text>
+        <text encoding="base64">ICAgIGdfbWVzc2FnZSgibG9jYWwgaW4gZmlsZTogJWQiLCBteXNxbF9nZXRfb3B0aW9uKGNvbm4sIE1ZU1FMX09QVF9MT0NBTF9JTkZJTEUsICZkaXNhYmxlX2xvY2FsX2luZmlsZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">CXVuc2lnbmVkIGludCBkaXNhYmxlX2xvY2FsX2luZmlsZSA9IDA7CglteXNxbF9vcHRpb25zKGNvbm4sIE1ZU1FMX09QVF9MT0NBTF9JTkZJTEUsICZkaXNhYmxlX2xvY2FsX2luZmlsZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlbiBsb2NrIGFsbCB0YWJsZSBpbiBzb3VyY2UsIHNob3VsZCBzdGFydCB0cmFuc2FjdGlvbiBiZWZvcmUgdW5sb2NrIHRhYmxlcy4K</text>
+        <text encoding="base64">CXVuc2lnbmVkIGludCBkaXNhYmxlX2xvY2FsX2luZmlsZSA9IDA7CiAgICBteXNxbF9vcHRpb25zKGNvbm4sIE1ZU1FMX09QVF9MT0NBTF9JTkZJTEUsICZkaXNhYmxlX2xvY2FsX2luZmlsZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXdoaWxlIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5zZW1hcGhvcmUpKSB7CgkJZ19hc3luY19xdWV1ZV9wb3AoY29uZi5zZW1hcGhvcmUpOwoJfQo=</text>
+        <text encoding="base64">d2hlbiBsb2NrIGFsbCB0YWJsZSBpbiBzb3VyY2UsIHNob3VsZCBzdGFydCB0cmFuc2FjdGlvbiBiZWZvcmUgdW5sb2NrIHRhYmxlcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXdoaWxlIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5xdWV1ZSkpIHsKCQlnX2FzeW5jX3F1ZXVlX3BvcChjb25mLnF1ZXVlKTsKCX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZ19mcmVlKHN0YXRlbWVudF9jaGVjayk7Cg==</text>
+        <text encoding="base64">CXdoaWxlIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5zZW1hcGhvcmUpKSB7CgkJZ19hc3luY19xdWV1ZV9wb3AoY29uZi5zZW1hcGhvcmUpOwoJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlnX2ZyZWUoc3RhdGVtZW50X2NoZWNrKTsK</text>
+        <text encoding="base64">CXdoaWxlIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5xdWV1ZSkpIHsKCQlnX2FzeW5jX3F1ZXVlX3BvcChjb25mLnF1ZXVlKTsKCX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWdfZnJlZShzdGF0ZW1lbnRfY2hlY2spOwo=</text>
+        <text encoding="base64">CQkJZ19mcmVlKHN0YXRlbWVudF9jaGVjayk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWlmICggcXVlcnkgKSB7Cgl9Cg==</text>
+        <text encoding="base64">CQlnX2ZyZWUoc3RhdGVtZW50X2NoZWNrKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
