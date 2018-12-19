@@ -70,11 +70,11 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1544429324864">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545203496269">
         <mark key="a" line="2893" column="0" />
         <mark key="q" line="1782" column="4" />
         <mark key="g" line="2934" column="8" />
-        <mark key="'" line="1072" column="21" />
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="1640" column="0" />
         <mark key="]" line="1640" column="0" />
         <mark key="^" line="1644" column="8" />
@@ -163,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1810" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1803" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1800" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1794" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
@@ -203,7 +202,6 @@
       <jump line="2895" column="8" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1729" column="15" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2908" column="30" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="2899" column="15" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2898" column="12" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2930" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="3250" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
@@ -263,6 +261,8 @@
       <jump line="2518" column="43" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="14" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1072" column="21" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="2899" column="16" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -272,7 +272,7 @@
         <text>disable_local_infile</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkcm9wX3N0YXRlbWVudFw+</text>
+        <text>regex</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdfbWVzc2FnZSgibG9jYWwgaW4gZmlsZTogJWQiLCBteXNxbF9nZXRfb3B0aW9uKGNvbm4sIE1ZU1FMX09QVF9MT0NBTF9JTkZJTEUsICZkaXNhYmxlX2xvY2FsX2luZmlsZSkpCg==</text>
@@ -309,9 +309,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkcm9wX3N0YXRlbWVudFw+</last-search>
+      <last-search>regex</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkcm9wX3N0YXRlbWVudFw+</last-pattern>
+      <last-pattern>regex</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvdmVyd3JpdGVfdGFibGVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -319,7 +319,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxteXNxbF9xdWVyeVw+</entry>
         <entry>min</entry>
         <entry encoding="base64">XDxpbmRleGVzXD4=</entry>
         <entry encoding="base64">XDxjaHVua3NcPg==</entry>
@@ -339,6 +338,7 @@
         <entry encoding="base64">XDxkdW1wX3JvdXRpbmVzX2RhdGFcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHQyXD4=</entry>
         <entry encoding="base64">XDxkcm9wX3N0YXRlbWVudFw+</entry>
+        <entry>regex</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
