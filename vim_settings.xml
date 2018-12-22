@@ -70,15 +70,15 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545203496269">
-        <mark key="a" line="2893" column="0" />
-        <mark key="q" line="1782" column="4" />
-        <mark key="g" line="2934" column="8" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545448308909">
+        <mark key="a" line="2897" column="0" />
+        <mark key="q" line="1786" column="4" />
+        <mark key="g" line="2938" column="8" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1640" column="0" />
-        <mark key="]" line="1640" column="0" />
-        <mark key="^" line="1644" column="8" />
-        <mark key="." line="1640" column="0" />
+        <mark key="[" line="1518" column="35" />
+        <mark key="]" line="1518" column="35" />
+        <mark key="^" line="1518" column="35" />
+        <mark key="." line="1518" column="35" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -266,16 +266,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>disable_local_infile</text>
+        <text>using</text>
       </register>
       <register name="-" type="4">
-        <text>disable_local_infile</text>
+        <text>using</text>
       </register>
       <register name="/" type="4">
         <text>regex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdfbWVzc2FnZSgibG9jYWwgaW4gZmlsZTogJWQiLCBteXNxbF9nZXRfb3B0aW9uKGNvbm4sIE1ZU1FMX09QVF9MT0NBTF9JTkZJTEUsICZkaXNhYmxlX2xvY2FsX2luZmlsZSkpCg==</text>
+        <text encoding="base64">CSAgICBnX21lc3NhZ2UoInVzaW5nIGxvY2tzIik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CXVuc2lnbmVkIGludCBkaXNhYmxlX2xvY2FsX2luZmlsZSA9IDA7CglteXNxbF9vcHRpb25zKGNvbm4sIE1ZU1FMX09QVF9MT0NBTF9JTkZJTEUsICZkaXNhYmxlX2xvY2FsX2luZmlsZSk7Cg==</text>
