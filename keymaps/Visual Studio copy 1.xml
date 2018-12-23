@@ -1,4 +1,8 @@
 <keymap version="1" name="Visual Studio copy 1" parent="Visual Studio">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt 5" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />

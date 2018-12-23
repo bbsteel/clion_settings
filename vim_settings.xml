@@ -6,7 +6,8 @@
       <file name="vim_settings.xml" timestamp="1540903057144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1543494629687">
+      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1545555233633">
+        <mark key="'" line="54" column="0" />
         <mark key="^" line="38" column="45" />
       </file>
       <file name="/code/projects/mysql-server/.gitignore" timestamp="1503113040871">
@@ -70,16 +71,16 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545469968440">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545554618265">
         <mark key="a" line="2897" column="0" />
         <mark key="q" line="1786" column="4" />
         <mark key="g" line="2938" column="8" />
         <mark key="'" line="1572" column="16" />
         <mark key="y" line="1182" column="12" />
-        <mark key="[" line="1518" column="35" />
-        <mark key="]" line="1518" column="35" />
-        <mark key="^" line="1518" column="35" />
-        <mark key="." line="1518" column="35" />
+        <mark key="[" line="1396" column="13" />
+        <mark key="]" line="1396" column="13" />
+        <mark key="^" line="1396" column="13" />
+        <mark key="." line="1396" column="13" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -117,12 +118,12 @@
       <file name="/code/projects/mysql-server/libevent/event_rpcgen.py" timestamp="1503113934784">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/README.md" timestamp="1543319775924">
+      <file name="$USER_HOME$/CLionProjects/mydumper/README.md" timestamp="1545554697688">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="1" />
-        <mark key="^" line="48" column="1" />
-        <mark key="." line="48" column="1" />
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="31" column="34" />
+        <mark key="^" line="31" column="34" />
+        <mark key="." line="31" column="34" />
       </file>
       <file name="$USER_HOME$/CLionProjects/mydumper/logger.c" timestamp="1541073960744">
         <mark key="'" line="44" column="0" />
@@ -164,8 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1800" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="1794" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1791" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1786" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1781" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
@@ -264,10 +263,12 @@
       <jump line="2899" column="16" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1572" column="16" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="33" column="0" filename="$USER_HOME$/CLionProjects/mydumper/connection.c" />
+      <jump line="54" column="0" filename="$USER_HOME$/CLionProjects/mydumper/connection.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>using</text>
+        <text>mysql-devel zlib-devel pcre-devel openssl-devel</text>
       </register>
       <register name="-" type="4">
         <text>using</text>
@@ -275,8 +276,8 @@
       <register name="/" type="4">
         <text>regex</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CSAgICBnX21lc3NhZ2UoInVzaW5nIGxvY2tzIik7Cg==</text>
+      <register name="0" type="4">
+        <text>mysql-devel zlib-devel pcre-devel openssl-devel</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CXVuc2lnbmVkIGludCBkaXNhYmxlX2xvY2FsX2luZmlsZSA9IDA7CglteXNxbF9vcHRpb25zKGNvbm4sIE1ZU1FMX09QVF9MT0NBTF9JTkZJTEUsICZkaXNhYmxlX2xvY2FsX2luZmlsZSk7Cg==</text>
