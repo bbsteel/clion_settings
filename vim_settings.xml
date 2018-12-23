@@ -42,11 +42,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/code/projects/mydumper/.gitignore" timestamp="1524663598695">
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-      </file>
       <file name="/code/projects/mydumper/myloader.h" timestamp="1532597646077">
         <mark key="[" line="47" column="9" />
         <mark key="]" line="47" column="10" />
@@ -71,16 +66,16 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545559454125">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545560020926">
         <mark key="a" line="2915" column="0" />
         <mark key="q" line="1804" column="4" />
         <mark key="g" line="2956" column="8" />
         <mark key="'" line="1026" column="17" />
         <mark key="y" line="1182" column="12" />
-        <mark key="[" line="1667" column="0" />
-        <mark key="]" line="1667" column="0" />
-        <mark key="." line="1667" column="0" />
-        <mark key="^" line="1666" column="62" />
+        <mark key="[" line="1662" column="67" />
+        <mark key="]" line="1662" column="69" />
+        <mark key="." line="1662" column="69" />
+        <mark key="^" line="1662" column="69" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -101,7 +96,7 @@
       <file name="/GDB" timestamp="1543314484687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543319816101">
+      <file name="/Dummy.txt" timestamp="1545560652776">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -144,7 +139,7 @@
         <mark key="^" line="39" column="143" />
         <mark key="." line="39" column="143" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1543115936286">
+      <file name="$USER_HOME$/CLionProjects/mydumper/CMakeLists.txt" timestamp="1545560264304">
         <mark key="'" line="33" column="4" />
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="18" />
@@ -268,7 +263,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICAJCg==</text>
+        <text encoding="base64">d2hlbiBsb2NrIGFsbCB0YWJsZSBpbiBzb3VyY2UsIHNob3VsZCBzdGFydCB0cmFuc2FjdGlvbiBiZWZvcmUgdW5sb2NrIHRhYmxlcy4K</text>
       </register>
       <register name="-" type="4">
         <text>unfinished job detected, this dump process failed</text>
@@ -280,31 +275,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZ19jcml0aWNhbCgidW5maW5pc2hlZCBqb2IgZGV0ZWN0ZWQsIHRoaXMgZHVtcCBwcm9jZXNzIGZhaWxlZCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICAJCg==</text>
+        <text encoding="base64">d2hlbiBsb2NrIGFsbCB0YWJsZSBpbiBzb3VyY2UsIHNob3VsZCBzdGFydCB0cmFuc2FjdGlvbiBiZWZvcmUgdW5sb2NrIHRhYmxlcy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">CSAgICAJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAgICAJZ19lcnJvcigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICAgICAgCg==</text>
+        <text encoding="base64">CSAgICAJZ19lcnJvcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICApCg==</text>
+        <text encoding="base64">CSAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXdoaWxlIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5xdWV1ZSkgIT0gTlVMTCkK</text>
+        <text encoding="base64">CSAgICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXVuc2lnbmVkIGludCBkaXNhYmxlX2xvY2FsX2luZmlsZSA9IDA7CglteXNxbF9vcHRpb25zKGNvbm4sIE1ZU1FMX09QVF9MT0NBTF9JTkZJTEUsICZkaXNhYmxlX2xvY2FsX2luZmlsZSk7Cg==</text>
+        <text encoding="base64">CXdoaWxlIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5xdWV1ZSkgIT0gTlVMTCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXVuc2lnbmVkIGludCBkaXNhYmxlX2xvY2FsX2luZmlsZSA9IDA7CiAgICBteXNxbF9vcHRpb25zKGNvbm4sIE1ZU1FMX09QVF9MT0NBTF9JTkZJTEUsICZkaXNhYmxlX2xvY2FsX2luZmlsZSk7Cg==</text>
+        <text encoding="base64">CXVuc2lnbmVkIGludCBkaXNhYmxlX2xvY2FsX2luZmlsZSA9IDA7CglteXNxbF9vcHRpb25zKGNvbm4sIE1ZU1FMX09QVF9MT0NBTF9JTkZJTEUsICZkaXNhYmxlX2xvY2FsX2luZmlsZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
