@@ -71,16 +71,16 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545554618265">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545556883375">
         <mark key="a" line="2897" column="0" />
         <mark key="q" line="1786" column="4" />
         <mark key="g" line="2938" column="8" />
-        <mark key="'" line="1572" column="16" />
+        <mark key="'" line="1572" column="114" />
         <mark key="y" line="1182" column="12" />
-        <mark key="[" line="1396" column="13" />
-        <mark key="]" line="1396" column="13" />
-        <mark key="^" line="1396" column="13" />
-        <mark key="." line="1396" column="13" />
+        <mark key="[" line="3261" column="67" />
+        <mark key="]" line="3261" column="85" />
+        <mark key="^" line="3261" column="85" />
+        <mark key="." line="3261" column="85" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -165,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1791" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1786" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1781" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1763" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
@@ -262,16 +261,17 @@
       <jump line="1072" column="21" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2899" column="16" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="1572" column="16" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="33" column="0" filename="$USER_HOME$/CLionProjects/mydumper/connection.c" />
       <jump line="54" column="0" filename="$USER_HOME$/CLionProjects/mydumper/connection.c" />
+      <jump line="3086" column="130" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="1572" column="114" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mysql-devel zlib-devel pcre-devel openssl-devel</text>
+        <text>strcat(</text>
       </register>
       <register name="-" type="4">
-        <text>using</text>
+        <text>strcat(</text>
       </register>
       <register name="/" type="4">
         <text>regex</text>
