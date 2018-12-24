@@ -66,16 +66,16 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545560020926">
-        <mark key="a" line="2915" column="0" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545615348023">
+        <mark key="a" line="2916" column="0" />
         <mark key="q" line="1804" column="4" />
-        <mark key="g" line="2956" column="8" />
+        <mark key="g" line="2957" column="8" />
         <mark key="'" line="1026" column="17" />
         <mark key="y" line="1182" column="12" />
-        <mark key="[" line="1662" column="67" />
-        <mark key="]" line="1662" column="69" />
-        <mark key="." line="1662" column="69" />
-        <mark key="^" line="1662" column="69" />
+        <mark key="[" line="1606" column="5" />
+        <mark key="]" line="1607" column="0" />
+        <mark key="^" line="1607" column="0" />
+        <mark key="." line="1607" column="0" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -263,7 +263,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">d2hlbiBsb2NrIGFsbCB0YWJsZSBpbiBzb3VyY2UsIHNob3VsZCBzdGFydCB0cmFuc2FjdGlvbiBiZWZvcmUgdW5sb2NrIHRhYmxlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>unfinished job detected, this dump process failed</text>
@@ -275,31 +275,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZ19jcml0aWNhbCgidW5maW5pc2hlZCBqb2IgZGV0ZWN0ZWQsIHRoaXMgZHVtcCBwcm9jZXNzIGZhaWxlZCIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2hlbiBsb2NrIGFsbCB0YWJsZSBpbiBzb3VyY2UsIHNob3VsZCBzdGFydCB0cmFuc2FjdGlvbiBiZWZvcmUgdW5sb2NrIHRhYmxlcy4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CSAgICAJCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cglmb3IgKHRhYmxlX3NjaGVtYXM9IGdfbGlzdF9maXJzdCh0YWJsZV9zY2hlbWFzKTsgdGFibGVfc2NoZW1hczsgdGFibGVfc2NoZW1hcz0gZ19saXN0X25leHQodGFibGVfc2NoZW1hcykpIHsKCQlkYnQ9IChzdHJ1Y3QgZGJfdGFibGUqKSB0YWJsZV9zY2hlbWFzLT5kYXRhOwoJCWR1bXBfc2NoZW1hKGNvbm4sIGRidC0+ZGF0YWJhc2UsIGRidC0+dGFibGUsICZjb25mKTsKCQlnX2ZyZWUoZGJ0LT50YWJsZSk7CgkJZ19mcmVlKGRidC0+ZGF0YWJhc2UpOwoJCWdfZnJlZShkYnQpOwoJfQoJZ19saXN0X2ZyZWUoZ19saXN0X2ZpcnN0KHRhYmxlX3NjaGVtYXMpKTsKCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJaWYgKCFub19zY2hlbWFzKXsKCQkJCXRhYmxlX3NjaGVtYXM9IGdfbGlzdF9hcHBlbmQodGFibGVfc2NoZW1hcywgZGJ0KTsKCQkJfQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICAJZ19lcnJvcigpCg==</text>
+        <text encoding="base64">Ly8JCQlnX2FzeW5jX3F1ZXVlX3B1c2goY29uZi0+cXVldWUsaik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8JCQlnX2FzeW5jX3F1ZXVlX3B1c2goY29uZi0+cXVldWUsaik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAgICApCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXdoaWxlIChnX2FzeW5jX3F1ZXVlX3RyeV9wb3AoY29uZi5xdWV1ZSkgIT0gTlVMTCkK</text>
+        <text encoding="base64">d2hlbiBsb2NrIGFsbCB0YWJsZSBpbiBzb3VyY2UsIHNob3VsZCBzdGFydCB0cmFuc2FjdGlvbiBiZWZvcmUgdW5sb2NrIHRhYmxlcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXVuc2lnbmVkIGludCBkaXNhYmxlX2xvY2FsX2luZmlsZSA9IDA7CglteXNxbF9vcHRpb25zKGNvbm4sIE1ZU1FMX09QVF9MT0NBTF9JTkZJTEUsICZkaXNhYmxlX2xvY2FsX2luZmlsZSk7Cg==</text>
+        <text encoding="base64">CSAgICAJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
