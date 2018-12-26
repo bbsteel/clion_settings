@@ -66,11 +66,11 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545743046362">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545806857843">
         <mark key="a" line="2916" column="0" />
         <mark key="q" line="1804" column="4" />
         <mark key="g" line="2957" column="8" />
-        <mark key="'" line="1026" column="17" />
+        <mark key="'" line="2587" column="72" />
         <mark key="y" line="1182" column="12" />
         <mark key="[" line="1606" column="5" />
         <mark key="]" line="1607" column="0" />
@@ -160,7 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1763" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1758" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1746" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1738" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
@@ -260,6 +259,7 @@
       <jump line="1572" column="114" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="909" column="8" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1026" column="17" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="2587" column="72" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -269,7 +269,7 @@
         <text>unfinished job detected, this dump process failed</text>
       </register>
       <register name="/" type="4">
-        <text>start_dump</text>
+        <text encoding="base64">XDxmaWxlbmFtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZ19jcml0aWNhbCgidW5maW5pc2hlZCBqb2IgZGV0ZWN0ZWQsIHRoaXMgZHVtcCBwcm9jZXNzIGZhaWxlZCIpOwo=</text>
@@ -306,9 +306,9 @@
       </register>
     </registers>
     <search>
-      <last-search>start_dump</last-search>
+      <last-search encoding="base64">XDxmaWxlbmFtZVw+</last-search>
       <last-offset />
-      <last-pattern>start_dump</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlbmFtZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvdmVyd3JpdGVfdGFibGVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -316,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbmRleGVzXD4=</entry>
         <entry encoding="base64">XDxjaHVua3NcPg==</entry>
         <entry>50</entry>
         <entry encoding="base64">XDxhdmdfcm93X2xlbmd0aFw+</entry>
@@ -336,6 +335,7 @@
         <entry encoding="base64">XDxkcm9wX3N0YXRlbWVudFw+</entry>
         <entry>regex</entry>
         <entry>start_dump</entry>
+        <entry encoding="base64">XDxmaWxlbmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
