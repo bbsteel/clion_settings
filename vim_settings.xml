@@ -67,16 +67,8 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545832981130">
-        <mark key="a" line="2944" column="0" />
-        <mark key="q" line="1815" column="4" />
-        <mark key="g" line="2985" column="8" />
-        <mark key="'" line="2189" column="68" />
-        <mark key="y" line="1189" column="12" />
-        <mark key="[" line="2192" column="0" />
-        <mark key="]" line="2192" column="0" />
-        <mark key="^" line="2190" column="8" />
-        <mark key="." line="2192" column="0" />
+      <file name="/LLDB" timestamp="1545874207339">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -97,7 +89,7 @@
       <file name="/GDB" timestamp="1543314484687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545830416783">
+      <file name="/Dummy.txt" timestamp="1545874445778">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
