@@ -6,9 +6,11 @@
       <file name="vim_settings.xml" timestamp="1540903057144">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1545555233633">
-        <mark key="'" line="54" column="0" />
-        <mark key="^" line="38" column="45" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/connection.c" timestamp="1546517368984">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="/code/projects/mysql-server/.gitignore" timestamp="1503113040871">
         <mark key="[" line="3122" column="0" />
@@ -69,12 +71,12 @@
       <file name="/LLDB" timestamp="1546512923296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1546516113855">
-        <mark key="'" line="887" column="4" />
-        <mark key="[" line="2106" column="72" />
-        <mark key="]" line="2107" column="14" />
-        <mark key="." line="2107" column="14" />
-        <mark key="^" line="2107" column="14" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1546517458229">
+        <mark key="'" line="2104" column="39" />
+        <mark key="[" line="2107" column="16" />
+        <mark key="]" line="2107" column="18" />
+        <mark key="." line="2107" column="18" />
+        <mark key="^" line="2107" column="18" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -159,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1882" column="8" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1727" column="11" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1776" column="19" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1858" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
@@ -259,13 +260,14 @@
       <jump line="1372" column="20" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2935" column="13" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="887" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="2104" column="39" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;Error: DB: %s - Could not execute query: %s&quot;, database, mysql_error(conn)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CW15c3FsX29wdGlvbnMoY29ubixNWVNRTF9TRVRfQ0hBUlNFVF9OQU1FLE1ZU1FMX0FVVE9ERVRFQ1RfQ0hBUlNFVF9OQU1FKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Error: DB: %s - Could not execute query: %s&quot;, database, mysql_error(conn)</text>
+        <text>MYSQL_OPT_SSL_MODE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -274,28 +276,28 @@
         <text encoding="base64">CQlnX2NyaXRpY2FsKCJFcnJvcjogREI6ICVzIC0gQ291bGQgbm90IGV4ZWN1dGUgcXVlcnk6ICVzIiwgZGF0YWJhc2UsIG15c3FsX2Vycm9yKGNvbm4pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CW15c3FsX29wdGlvbnMoY29ubixNWVNRTF9TRVRfQ0hBUlNFVF9OQU1FLE1ZU1FMX0FVVE9ERVRFQ1RfQ0hBUlNFVF9OQU1FKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJZ19tZXNzYWdlKCJ0YWJsZSAlcyBub3QgbWF0Y2ggcmVnZXggc3RyaW5nLCBza2lwIiwgcm93WzBdKTsKCQkJY29udGludWU7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJZ19tZXNzYWdlKCJ0YWJsZSAlcyBub3QgbWF0Y2ggcmVnZXggc3RyaW5nLCBza2lwIiwgcm93WzBdKTsKCQkJY29udGludWU7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY29udGludWU7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8qIENyZWF0ZSBza2lwbGlzdCBpZiBpdCBkb2VzIG5vdCBleGlzdCAqLwo=</text>
+        <text encoding="base64">CQkJY29udGludWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlmICghdGFibGVfbGlzdCkgewoJCXRhYmxlX2xpc3QgPSBnX3NlcXVlbmNlX25ldyhOVUxMKTsKCX07Cg==</text>
+        <text encoding="base64">CS8qIENyZWF0ZSBza2lwbGlzdCBpZiBpdCBkb2VzIG5vdCBleGlzdCAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWlmICghdGFibGVfbGlzdCkgewoJCXRhYmxlX2xpc3QgPSBnX3NlcXVlbmNlX25ldyhOVUxMKTsKCX07Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkK</text>
