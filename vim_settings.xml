@@ -36,7 +36,7 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.m" timestamp="1545878833802">
+      <file name="/fragment.m" timestamp="1546512584911">
         <mark key="'" line="0" column="3" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -48,7 +48,6 @@
         <mark key="^" line="47" column="10" />
         <mark key="." line="47" column="10" />
       </file>
-      <file name="/mydumper.c" timestamp="1545828011805" />
       <file name="/usr/include/pcre.h" timestamp="1528620722977">
         <mark key="'" line="676" column="0" />
       </file>
@@ -67,15 +66,15 @@
       <file name="/code/projects/mysql-server/sql/sql_show.cc" timestamp="1532165468686">
         <mark key="'" line="6617" column="0" />
       </file>
-      <file name="/LLDB" timestamp="1545875892690">
+      <file name="/LLDB" timestamp="1546512923296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1545880825208">
-        <mark key="'" line="2935" column="13" />
-        <mark key="[" line="2341" column="16" />
-        <mark key="]" line="2341" column="30" />
-        <mark key="." line="2341" column="30" />
-        <mark key="^" line="2341" column="30" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1546512919545">
+        <mark key="'" line="2939" column="13" />
+        <mark key="[" line="2106" column="38" />
+        <mark key="]" line="2106" column="39" />
+        <mark key="." line="2106" column="39" />
+        <mark key="^" line="2106" column="39" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -263,43 +262,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tables_dumplist_file</text>
+        <text>&quot;Error: DB: %s - Could not execute query: %s&quot;, database, mysql_error(conn)</text>
       </register>
       <register name="-" type="4">
-        <text>tables_dumplist_file</text>
+        <text>&quot;Error: DB: %s - Could not execute query: %s&quot;, database, mysql_error(conn)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJZ19tZXNzYWdlKCJ0YWJsZSAlcyBub3QgaW4gZHVtcCBsaXN0LCBza2lwIiwgcm93WzBdKTsK</text>
+        <text encoding="base64">CQlnX2NyaXRpY2FsKCJFcnJvcjogREI6ICVzIC0gQ291bGQgbm90IGV4ZWN1dGUgcXVlcnk6ICVzIiwgZGF0YWJhc2UsIG15c3FsX2Vycm9yKGNvbm4pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJZ19tZXNzYWdlKCJ0YWJsZSAlcyBub3QgbWF0Y2ggcmVnZXggc3RyaW5nLCBza2lwIiwgcm93WzBdKTsKCQkJY29udGludWU7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJZ19tZXNzYWdlKCJ0YWJsZSAlcyBub3QgbWF0Y2ggcmVnZXggc3RyaW5nLCBza2lwIiwgcm93WzBdKTsKCQkJY29udGludWU7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJY29udGludWU7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8qIENyZWF0ZSBza2lwbGlzdCBpZiBpdCBkb2VzIG5vdCBleGlzdCAqLwo=</text>
+        <text encoding="base64">CQkJY29udGludWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWlmICghdGFibGVfbGlzdCkgewoJCXRhYmxlX2xpc3QgPSBnX3NlcXVlbmNlX25ldyhOVUxMKTsKCX07Cg==</text>
+        <text encoding="base64">CS8qIENyZWF0ZSBza2lwbGlzdCBpZiBpdCBkb2VzIG5vdCBleGlzdCAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CWlmICghdGFibGVfbGlzdCkgewoJCXRhYmxlX2xpc3QgPSBnX3NlcXVlbmNlX25ldyhOVUxMKTsKCX07Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CQkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZvciAoaXRlciA9IGdfc2VxdWVuY2VfZ2V0X2JlZ2luX2l0ZXIodGFibGVzX2R1bXBsaXN0KTsgIWdfc2VxdWVuY2VfaXRlcl9pc19lbmQoaXRlcik7IGl0ZXI9Z19zZXF1ZW5jZV9pdGVyX25leHQoaXRlcikpIHsKCQlnX21lc3NhZ2UoInNraXAgaXRlbTogJXMiLCAoY2hhciAqKWdfc2VxdWVuY2VfZ2V0KGl0ZXIpKTsKCX0K</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
