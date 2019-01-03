@@ -69,8 +69,8 @@
       <file name="/LLDB" timestamp="1546512923296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1546515739034">
-        <mark key="'" line="2940" column="13" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1546516113855">
+        <mark key="'" line="887" column="4" />
         <mark key="[" line="2106" column="72" />
         <mark key="]" line="2107" column="14" />
         <mark key="." line="2107" column="14" />
@@ -256,9 +256,9 @@
       <jump line="322" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="361" column="33" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2189" column="68" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="887" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1372" column="20" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2935" column="13" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="887" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
