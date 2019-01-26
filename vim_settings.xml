@@ -71,12 +71,12 @@
       <file name="/LLDB" timestamp="1546512923296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1548126757322">
-        <mark key="'" line="2104" column="39" />
-        <mark key="[" line="1541" column="16" />
-        <mark key="]" line="1541" column="12" />
-        <mark key="." line="1541" column="12" />
-        <mark key="^" line="1541" column="12" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1548485749124">
+        <mark key="'" line="3184" column="4" />
+        <mark key="[" line="1834" column="36" />
+        <mark key="]" line="3177" column="19" />
+        <mark key="." line="3177" column="19" />
+        <mark key="^" line="3177" column="19" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -161,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1727" column="11" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1776" column="19" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1858" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2868" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
@@ -261,6 +260,7 @@
       <jump line="2935" column="13" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="887" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2104" column="39" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="3184" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -270,7 +270,7 @@
         <text>information_schema</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text encoding="base64">XDxxdWVyeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCSFzdHJjYXNlY21wKHJvd1swXSwgImluZm9ybWF0aW9uX3NjaGVtYSIpIHx8Cg==</text>
@@ -307,9 +307,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search encoding="base64">XDxxdWVyeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxxdWVyeVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvdmVyd3JpdGVfdGFibGVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -317,7 +317,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conf</entry>
         <entry>W</entry>
         <entry>-W</entry>
         <entry encoding="base64">XDxjb25mXD4=</entry>
@@ -337,6 +336,7 @@
         <entry encoding="base64">XDx0YWJsZXNfZHVtcGxpc3RfZmlsZVw+</entry>
         <entry encoding="base64">XDx0YWJsZXNfc2tpcGxpc3RfY21wXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry encoding="base64">XDxxdWVyeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
