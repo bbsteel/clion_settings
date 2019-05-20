@@ -71,12 +71,12 @@
       <file name="/LLDB" timestamp="1546512923296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1558342184702">
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1558347364745">
         <mark key="'" line="1338" column="200" />
-        <mark key="[" line="2117" column="42" />
-        <mark key="]" line="2117" column="43" />
-        <mark key="^" line="1338" column="200" />
-        <mark key="." line="2117" column="43" />
+        <mark key="[" line="2661" column="0" />
+        <mark key="]" line="2661" column="33" />
+        <mark key="^" line="2661" column="33" />
+        <mark key="." line="2661" column="33" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
