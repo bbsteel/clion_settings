@@ -71,11 +71,12 @@
       <file name="/LLDB" timestamp="1546512923296">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1558288330846">
-        <mark key="[" line="2661" column="19" />
-        <mark key="]" line="2118" column="24" />
-        <mark key="." line="2118" column="24" />
-        <mark key="^" line="2118" column="66" />
+      <file name="$USER_HOME$/CLionProjects/mydumper/mydumper.c" timestamp="1558342184702">
+        <mark key="'" line="1338" column="200" />
+        <mark key="[" line="2117" column="42" />
+        <mark key="]" line="2117" column="43" />
+        <mark key="^" line="1338" column="200" />
+        <mark key="." line="2117" column="43" />
       </file>
       <file name="/code/projects/mydumper/myloader.c" timestamp="1532617831950">
         <mark key="'" line="243" column="16" />
@@ -96,10 +97,8 @@
       <file name="/GDB" timestamp="1543314484687">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548511036847">
+      <file name="/Dummy.txt" timestamp="1558342189139">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/code/projects/mydumper/cmake/modules/CppcheckTargets.cmake" timestamp="1525961259631">
         <mark key="'" line="70" column="16" />
@@ -160,8 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2868" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
-      <jump line="1859" column="16" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2849" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2848" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="1873" column="82" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
@@ -260,16 +257,18 @@
       <jump line="3184" column="4" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2492" column="0" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
       <jump line="2122" column="21" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="2671" column="20" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
+      <jump line="1338" column="200" filename="$USER_HOME$/CLionProjects/mydumper/mydumper.c" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlnX2ZyZWUocXVlcnkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWVyeVw+</text>
+        <text>and not</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJZ19jcml0aWNhbCgiRXJyb3I6IERCOiAlcyAtIENvdWxkIG5vdCBleGVjdXRlIHF1ZXJ5OiAlZCwgJXMiLCBkYXRhYmFzZSwgbXlzcWxfZXJybm8oY29ubiksIG15c3FsX2Vycm9yKGNvbm4pKTsK</text>
@@ -306,9 +305,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWVyeVw+</last-search>
+      <last-search>and not</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWVyeVw+</last-pattern>
+      <last-pattern>and not</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxvdmVyd3JpdGVfdGFibGVzXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -316,7 +315,6 @@
     </search>
     <history>
       <history-search>
-        <entry>W</entry>
         <entry>-W</entry>
         <entry encoding="base64">XDxjb25mXD4=</entry>
         <entry encoding="base64">XDxkdW1wX3Jlc3VsdFw+</entry>
@@ -336,6 +334,7 @@
         <entry encoding="base64">XDx0YWJsZXNfc2tpcGxpc3RfY21wXD4=</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
+        <entry>and not</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
